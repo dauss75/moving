@@ -17,8 +17,6 @@
 ![Screenshot](images/matt2.JPG)
 - Baby Care Play Mat (Medium, Pingko Friends): [Amazon web link](https://www.amazon.com/dp/B00H9AJEC4/ref=twister_B0058K5II6?th=1)
 
-
-
 ### Kids Twin Loft Bed with Slide and Mattress
 
 ![Screenshot](images/bed1.JPG)
@@ -27,12 +25,10 @@
 - Zinus Memory Foam 8 Inch Green Tea Mattress, Twin: [Amazon web link](https://www.amazon.com/dp/B00Q7FWQKO/ref=twister_B07792YVXM?_encoding=UTF8&psc=1)
 
 
-
-
 ### Toy Organizer
 
 ![Screenshot](images/toy_organizer.JPG)
-Amazon link: https://www.amazon.com/Tot-Tutors-Storage-Organizer-Collection/dp/B000067PTO/ref=sr_1_3?ie=UTF8&qid=1543889928&sr=8-3&keywords=toy+organizer
+- Tot Tutors Kids' Toy Storage Organizer with 12 Plastic Bins, Natural/Primary: [Amazon web link]( https://www.amazon.com/Tot-Tutors-Storage-Organizer-Collection/dp/B000067PTO/ref=sr_1_3?ie=UTF8&qid=1543889928&sr=8-3&keywords=toy+organizer)
 
 ### Casio Keyboard
 
@@ -43,7 +39,7 @@ Amazon link: https://www.amazon.com/Tot-Tutors-Storage-Organizer-Collection/dp/B
 ![Screenshot](images/bundle1.JPG)
 ![Screenshot](images/bundle2.JPG)
 
-Amazon link: https://www.amazon.com/Jj-Cole-Polar-Bundleme-Slate/dp/B00F2RFESY/ref=sr_1_1_a_it?ie=UTF8&qid=1543890161&sr=8-1&keywords=jj%2Bcole%2Bbundle%2Bme%2Btoddler&th=1
+- Jj Cole Polar Bundleme Slate: [Amazon web link](https://www.amazon.com/Jj-Cole-Polar-Bundleme-Slate/dp/B00F2RFESY/ref=sr_1_1_a_it?ie=UTF8&qid=1543890161&sr=8-1&keywords=jj%2Bcole%2Bbundle%2Bme%2Btoddler&th=1)
 
 ### Kids Rocking Chair
 
