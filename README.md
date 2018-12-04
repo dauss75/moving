@@ -2,7 +2,7 @@
 # List of items for sale
 
 - [Baby Care Play Mat ($30)](#baby-care-play-mat)
-- [Kids Twin Loft Bed with Slide and mattress ($200)](#kids-twin-loft-bed-with-slide-and-matress)
+- [Kids Twin Loft Bed with Slide and Mattress ($200)](#kids-twin-loft-bed-with-slide-and-mattress)
 - [Toy Organizer ($20)](#toy-organizer)
 - [Casio Keyboard ($20)](#casio-keyboard)
 - [Baby Bundle ($30)](#baby-bundle)
@@ -19,7 +19,7 @@
 
 
 
-### Kids Twin Loft Bed with Slide and mattress
+### Kids Twin Loft Bed with Slide and Mattress
 
 ![Screenshot](images/bed1.JPG)
 ![Screenshot](images/bed2.JPG)
