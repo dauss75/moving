@@ -2,7 +2,7 @@
 # List of items for sale
 
 - [Baby Care Play Mat](#baby-care-play-mat)
-- [Kids Twin Loft Bed with Slide and matress](#kids-twin-loft-bed-with-slide-and-matress)
+- [Kids Twin Loft Bed with Slide and mattress](#kids-twin-loft-bed-with-slide-and-matress)
 - [Toy Organizer](#toy-organizer)
 - [Casio Keyboard](#casio-keyboard)
 - [Baby Bundle](#baby-bundle)
@@ -16,14 +16,14 @@
 
 Amazon link: https://www.amazon.com/dp/B00H9AJEC4/ref=twister_B0058K5II6?th=1
 
-### Kids Twin Loft Bed with Slide and matress - $200
+### Kids Twin Loft Bed with Slide and mattress - $200
 
 ![Screenshot](images/bed1.JPG)
 ![Screenshot](images/bed2.JPG)
-
-note: add mattress
-Amazon link: https://www.amazon.com/Donco-Kids-Slide-White-704347/dp/B06X9WBRKJ?ref_=fsclp_pl_dp_11
-https://www.amazon.com/dp/B00Q7FWQKO/ref=twister_B07792YVXM?_encoding=UTF8&psc=1
+ - Donco Kids Twin Loft Bed with Slide in White 704347  
+ - Amazon link for loft bed: https://www.amazon.com/Donco-Kids-Slide-White-704347/dp/B06X9WBRKJ?ref_=fsclp_pl_dp_11
+ - Zinus Memory Foam 8 Inch Green Tea Mattress, Twin
+ - Amazon link for mattress: https://www.amazon.com/dp/B00Q7FWQKO/ref=twister_B07792YVXM?_encoding=UTF8&psc=1
 
 ### Toy Organizer - $20
 
