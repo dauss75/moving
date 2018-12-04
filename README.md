@@ -1,7 +1,5 @@
 
-# List of items
-
-## please click an item or scroll down to see more information
+# List of items for sale
 
 - [Baby Care Play Mat](#baby-care-play-mat)
 - [Kids Twin Loft Bed with Slide and matress](#kids-twin-loft-bed-with-slide-and-matress)
