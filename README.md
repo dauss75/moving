@@ -23,7 +23,7 @@ https://www.amazon.com/Jj-Cole-Polar-Bundleme-Slate/dp/B00F2RFESY/ref=sr_1_1_a_i
 ![Screenshot](images/matt1.JPG)
 ![Screenshot](images/matt2.JPG)
 
-<a href="https://www.amazon.com/dp/B00H9AJEC4/ref=twister_B0058K5II6?th=1" target="_blank">Amazon link</a>
+[Amazon link](https://www.amazon.com/dp/B00H9AJEC4/ref=twister_B0058K5II6?th=1){:target="_blank"}
 
 - [Introduction](#introduction)
 - [Glossary](#glossary)
