@@ -11,7 +11,7 @@
 
 ----
 
-### Baby Care Play Mat - $30
+### Baby Care Play Mat ($30)
 
 ![Screenshot](images/matt1.JPG)
 ![Screenshot](images/matt2.JPG)
