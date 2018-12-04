@@ -1,7 +1,7 @@
 
 # List of items for sale
 
-- [Baby Care Play Mat](#baby-care-play-mat)
+- [Baby Care Play Mat ($30)](#baby-care-play-mat)
 - [Kids Twin Loft Bed with Slide and mattress](#kids-twin-loft-bed-with-slide-and-matress)
 - [Toy Organizer](#toy-organizer)
 - [Casio Keyboard](#casio-keyboard)
