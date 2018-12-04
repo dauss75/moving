@@ -18,12 +18,12 @@ https://www.amazon.com/Jj-Cole-Polar-Bundleme-Slate/dp/B00F2RFESY/ref=sr_1_1_a_i
 
 - Korean kids books
 
-### Baby Care Play Mat $30
+### Baby Care Play Mat -  $30
 
 ![Screenshot](images/matt1.JPG)
 ![Screenshot](images/matt2.JPG)
 
-Amazon link: https://www.amazon.com/dp/B00H9AJEC4/ref=twister_B0058K5II6?th=1
+<a href="https://www.amazon.com/dp/B00H9AJEC4/ref=twister_B0058K5II6?th=1" target="_blank">Amazon link</a>
 
 - [Introduction](#introduction)
 - [Glossary](#glossary)
