@@ -2,16 +2,16 @@
 # List of items for sale
 
 - [Baby Care Play Mat ($30)](#baby-care-play-mat)
-- [Kids Twin Loft Bed with Slide and mattress](#kids-twin-loft-bed-with-slide-and-matress)
-- [Toy Organizer](#toy-organizer)
-- [Casio Keyboard](#casio-keyboard)
-- [Baby Bundle](#baby-bundle)
-- [Kids Rocking Chair](#kids-rocking-chair)
+- [Kids Twin Loft Bed with Slide and mattress ($200)](#kids-twin-loft-bed-with-slide-and-matress)
+- [Toy Organizer ($20)](#toy-organizer)
+- [Casio Keyboard ($20)](#casio-keyboard)
+- [Baby Bundle ($30)](#baby-bundle)
+- [Kids Rocking Chair ($15)](#kids-rocking-chair)
 - [Korean Books for Kids](#korean-books-for-kids)
 
 ----
 
-### Baby Care Play Mat ($30)
+### Baby Care Play Mat
 
 ![Screenshot](images/matt1.JPG)
 ![Screenshot](images/matt2.JPG)
@@ -19,7 +19,7 @@
 
 
 
-### Kids Twin Loft Bed with Slide and mattress - $200
+### Kids Twin Loft Bed with Slide and mattress
 
 ![Screenshot](images/bed1.JPG)
 ![Screenshot](images/bed2.JPG)
@@ -29,23 +29,23 @@
 
 
 
-### Toy Organizer - $20
+### Toy Organizer
 
 ![Screenshot](images/toy_organizer.JPG)
 Amazon link: https://www.amazon.com/Tot-Tutors-Storage-Organizer-Collection/dp/B000067PTO/ref=sr_1_3?ie=UTF8&qid=1543889928&sr=8-3&keywords=toy+organizer
 
-### Casio Keyboard - $20
+### Casio Keyboard
 
 ![Screenshot](images/keyboard.JPG)
 
-### Baby Bundle - $30
+### Baby Bundle
 
 ![Screenshot](images/bundle1.JPG)
 ![Screenshot](images/bundle2.JPG)
 
 Amazon link: https://www.amazon.com/Jj-Cole-Polar-Bundleme-Slate/dp/B00F2RFESY/ref=sr_1_1_a_it?ie=UTF8&qid=1543890161&sr=8-1&keywords=jj%2Bcole%2Bbundle%2Bme%2Btoddler&th=1
 
-### Kids Rocking Chair - $15
+### Kids Rocking Chair
 
 ![Screenshot](images/rocking_chair1.JPG)
 ![Screenshot](images/rocking_chair2.JPG)
