@@ -15,7 +15,7 @@
 
 ![Screenshot](images/matt1.JPG)
 ![Screenshot](images/matt2.JPG)
-- [Amazon web link](https://www.amazon.com/dp/B00H9AJEC4/ref=twister_B0058K5II6?th=1)
+- Baby Care Play Mat (Medium, Pingko Friends): [Amazon web link](https://www.amazon.com/dp/B00H9AJEC4/ref=twister_B0058K5II6?th=1)
 
 
 
@@ -23,8 +23,8 @@
 
 ![Screenshot](images/bed1.JPG)
 ![Screenshot](images/bed2.JPG)
-- Donco Kids Twin Loft Bed with Slide in White 704347  [Amazon web link](https://www.amazon.com/Donco-Kids-Slide-White-704347/dp/B06X9WBRKJ?ref_=fsclp_pl_dp_11)
-- Zinus Memory Foam 8 Inch Green Tea Mattress, Twin   [Amazon web link](https://www.amazon.com/dp/B00Q7FWQKO/ref=twister_B07792YVXM?_encoding=UTF8&psc=1)
+- Donco Kids Twin Loft Bed with Slide in White 704347: [Amazon web link](https://www.amazon.com/Donco-Kids-Slide-White-704347/dp/B06X9WBRKJ?ref_=fsclp_pl_dp_11)
+- Zinus Memory Foam 8 Inch Green Tea Mattress, Twin: [Amazon web link](https://www.amazon.com/dp/B00Q7FWQKO/ref=twister_B07792YVXM?_encoding=UTF8&psc=1)
 
 
 
