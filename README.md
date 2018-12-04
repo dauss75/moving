@@ -9,6 +9,8 @@
 - [Kids Rocking Chair](#kids-rocking-chair)
 - [Korean Books for Kids](#korean-books-for-kids)
 
+----
+
 ### Baby Care Play Mat - $30
 
 ![Screenshot](images/matt1.JPG)
