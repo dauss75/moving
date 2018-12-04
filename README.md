@@ -1,7 +1,7 @@
 
 # List of items
 
-- [Baby Care Play Mat](#baby_care_play_mat) $30
+- [Baby Care Play Mat](#baby-care-play-mat) $30
 - Kids Twin Loft Bed with Slide and matress  $200
 https://www.amazon.com/Donco-Kids-Slide-White-704347/dp/B06X9WBRKJ?ref_=fsclp_pl_dp_11
 https://www.amazon.com/dp/B00Q7FWQKO/ref=twister_B07792YVXM?_encoding=UTF8&psc=1
@@ -18,7 +18,7 @@ https://www.amazon.com/Jj-Cole-Polar-Bundleme-Slate/dp/B00F2RFESY/ref=sr_1_1_a_i
 
 - Korean kids books
 
-### Baby Care Play Mat
+### Baby Care Play Mat $30
 
 ![Screenshot](images/matt1.JPG)
 ![Screenshot](images/matt2.JPG)
