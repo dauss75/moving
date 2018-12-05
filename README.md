@@ -1,33 +1,37 @@
 
 # List of items for sale
+## Kids
 
-- [Baby Care Play Mat ($30)](#baby-care-play-mat-30)
-- [Kids Twin Loft Bed with Slide and Mattress ($200)](#kids-twin-loft-bed-with-slide-and-mattress-200)
-- [Toy Organizer ($20)](#toy-organizer-20)
-- [Casio Keyboard ($20)](#casio-keyboard-20)
-- [Baby Bundle ($30)](#baby-bundle-30)
-- [Kids Rocking Chair ($15)](#kids-rocking-chair-15)
-- [Korean Books for Kids](#korean-books-for-kids)
-- [High Chair ($20)](#high-chair-20)
-- [Swivel Chair ($50)](#swivel-chair-50)
-- [Floor Stand ($10)](#floor-stand-10)
-- [Book Case ($10)](#book-case-10)
-- [Deluxe Standing Art Easel ($10)](#deluxe-standing-art-easel-10)
-- [Catch and Count Wooden Fishing Game ($10)](#catch-and-count-wooden-fishing-game-10)
-- [Deluxe Wooden Magnetic Calendar ($10)](#deluxe-wooden-magnetic-calendar-10)
-- [Deluxe Wooden Magnetic Responsibility Chart ($10)](#deluxe-wooden-magnetic-responsibility-chart-10)
-- [USA Map Floor Puzzle ($5)](#usa-map-floor-puzzle-5)
-- [StarWars Early Readers Level 1-3 ($10)](#starwars-early-readers-level-1-3-10)
-- [Animal Finger Puppets Kids Toy ($10)](#animal-finger-puppets-kids-toy-10)
-- [Fat Brain Toys Squigz ($10)](#fat-brain-toys-squigz-10)
-- [Car with remote control ($10)](#car-with-remote-control-10)
-- [ZipBin 160 Dinosaur Collector Toy Box + 30 Dinosaur Figures ($20)](#zipbin-160-dinosaur-collector-toy-box--30-dinosaur-figures-20)
-- [Cash Register Toy ($10)](#cash-register-toy-10)
-- [2nd Grade Spelling Flashcards+ Brain Quest Grade 2 ($20)](#2nd-grade-spelling-flashcards-brain-quest-grade-2-20)
-- [DK Games: Silly Sentences ($5)](#dk-games-silly-sentences-5)
-- [Learning Resources Sum Swamp Game ($10)](#learning-resources-sum-swamp-game-10)
-- [PicassoTiles 150 Piece ($40)](#picassotiles-150-piece-40)
-
+  - [Baby Care Play Mat ($30)](#baby-care-play-mat-30)
+  - [Kids Twin Loft Bed with Slide and Mattress ($200)](#kids-twin-loft-bed-with-slide-and-mattress-200)
+  - [Toy Organizer ($20)](#toy-organizer-20)
+  - [Casio Keyboard ($15)](#casio-keyboard-15)
+  - [Baby Bundle ($20)](#baby-bundle-20)
+  - [Kids Rocking Chair ($10)](#kids-rocking-chair-10)
+  - [Korean Books for Kids $20](#korean-books-for-kids-20)
+  - [Bar Chair ($10)](#high-chair-20)
+  - [Swivel Chair ($30)](#swivel-chair-30)
+  - [Floor Stand ($10)](#floor-stand-10)
+  - [Book Case ($10)](#book-case-10)
+  - [Deluxe Standing Art Easel ($10)](#deluxe-standing-art-easel-10)
+  - [Catch and Count Wooden Fishing Game ($10)](#catch-and-count-wooden-fishing-game-10)
+  - [Deluxe Wooden Magnetic Calendar ($10)](#deluxe-wooden-magnetic-calendar-10)
+  - [Deluxe Wooden Magnetic Responsibility Chart ($10)](#deluxe-wooden-magnetic-responsibility-chart-10)
+  - [USA Map Floor Puzzle ($5)](#usa-map-floor-puzzle-5)
+  - [StarWars Early Readers Level 1-3 ($10)](#starwars-early-readers-level-1-3-10)
+  - [Animal Finger Puppets Kids Toy ($5)](#animal-finger-puppets-kids-toy-5)
+  - [Fat Brain Toys Squigz ($10)](#fat-brain-toys-squigz-10)
+  - [Car with remote control ($10)](#car-with-remote-control-10)
+  - [ZipBin 160 Dinosaur Collector Toy Box + 30 Dinosaur Figures ($20)](#zipbin-160-dinosaur-collector-toy-box--30-dinosaur-figures-20)
+  - [Cash Register Toy ($10)](#cash-register-toy-10)
+  - [2nd Grade Spelling Flashcards+ Brain Quest Grade 2 ($20)](#2nd-grade-spelling-flashcards-brain-quest-grade-2-20)
+  - [DK Games: Silly Sentences ($5)](#dk-games-silly-sentences-5)
+  - [Learning Resources Sum Swamp Game ($10)](#learning-resources-sum-swamp-game-10)
+  - [PicassoTiles 150 Piece ($40)](#picassotiles-150-piece-40)
+  - [Magic Sand ($20)](#magic-sand-20)
+  - [Fish Tank ($10)](#fish-tank-20)
+  - [Booster Seat (free)](#)
+  - [Floaty (free)](#)
 
 ### Baby Care Play Mat $30
 
@@ -48,35 +52,36 @@
 ![Screenshot](images/toy_organizer.JPG)
 - Tot Tutors Kids' Toy Storage Organizer with 12 Plastic Bins, Natural/Primary: [Amazon web link]( https://www.amazon.com/Tot-Tutors-Storage-Organizer-Collection/dp/B000067PTO/ref=sr_1_3?ie=UTF8&qid=1543889928&sr=8-3&keywords=toy+organizer)
 
-### Casio Keyboard $20
+### Casio Keyboard $15
 
 ![Screenshot](images/keyboard.JPG)
 
-### Baby Bundle $30
+### Baby Bundle $20
 
 ![Screenshot](images/bundle1.JPG)
 ![Screenshot](images/bundle2.JPG)
 
 - Jj Cole Polar Bundleme Slate: [Amazon web link](https://www.amazon.com/Jj-Cole-Polar-Bundleme-Slate/dp/B00F2RFESY/ref=sr_1_1_a_it?ie=UTF8&qid=1543890161&sr=8-1&keywords=jj%2Bcole%2Bbundle%2Bme%2Btoddler&th=1)
 
-### Kids Rocking Chair $15
+### Kids Rocking Chair $10
 
 ![Screenshot](images/rocking_chair1.JPG)
 ![Screenshot](images/rocking_chair2.JPG)
 
-### Korean Books for Kids
+### Korean Books for Kids $20
 
 ![Screenshot](images/book1.JPG)
 ![Screenshot](images/book2.JPG)
 ![Screenshot](images/book3.JPG)
 ![Screenshot](images/book4.JPG)
 
-### High chair $20
+### Bar chair $10
 
 ![Screenshot](images/high_chair1.JPG)
 ![Screenshot](images/high_chair2.JPG)
+- Ikea Bar Stool: [IKEA web link](https://www.ikea.com/us/en/catalog/products/70404875/)
 
-### Swivel Chair $50
+### Swivel Chair $30
 
 ![Screenshot](images/swivel_chair1.JPG)
 ![Screenshot](images/swivel_chair2.JPG)
@@ -130,7 +135,7 @@
 
 - DK Star Wars: Ultimate Library Box Set with 20 Volumes for Early Readers Level 1-3 in Slipcase: [Amazon web link](https://www.amazon.com/Star-Wars-Ultimate-Library-Slipcase/dp/1465442146/ref=sr_1_4?s=digital-text&ie=UTF8&qid=1543877539&sr=8-4&keywords=DK+ultimate+library+star+wars+book)
 
-### Animal Finger Puppets Kids Toy (1 Dozen) $10
+### Animal Finger Puppets Kids Toy (1 Dozen) $5
 
 ![Screenshot](images/Animal_Finger_Puppets.JPG)
 - Animal Finger Puppets Kids Toy (1 Dozen): [Amazon web link](https://www.amazon.com/dp/B001E3B9J8/ref=nav_timeline_asin?_encoding=UTF8&psc=1)
@@ -175,3 +180,24 @@
 ![Screenshot](images/PicassoTiles1.JPG)
 ![Screenshot](images/PicassoTiles2.JPG)
 - PicassoTiles 150 Piece: [Amazon web link to 100 Piece](https://www.amazon.com/PicassoTiles-Construction-Inspirational-Recreational-Conventional/dp/B00AU56C5W/ref=sr_1_5?s=toys-and-games&ie=UTF8&qid=1543879343&sr=1-5&keywords=picasso+magnetic+tiles)
+
+### Magic Sand $20
+
+![Screenshot](images/magic_sand_1.JPG)
+![Screenshot](images/magic_sand_2.JPG)
+
+### Fish Tank $10
+
+![Screenshot](images/fishtank1.JPG)
+![Screenshot](images/fishtank2.JPG)
+
+
+### Booster Seat (free)
+
+![Screenshot](images/booster_seat1.JPG)
+![Screenshot](images/booster_seat2.JPG)
+
+### Floaty (free)
+
+![Screenshot](images/floaty1.JPG)
+![Screenshot](images/floaty2.JPG)
