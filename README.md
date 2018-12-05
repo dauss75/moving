@@ -41,31 +41,32 @@
   - [Floaty (free)](#floaty-free)
   - [Bowling toy (free)](#fbowling-toy-free)
 
+
 ### Space Heater $20
 
-![Screenshot](images/space_heater.JPG)
+![Screenshot](images/space_heater.jpg)
 - Lasko 751320 Ceramic Tower Space Heater with Remote Control:  [Amazon web link](https://www.amazon.com/Lasko-751320-Ceramic-Heater-Control/dp/B000TTSXNI/ref=mp_s_a_1_16?ie=UTF8&qid=1544052369&sr=8-16&pi=AC_SX236_SY340_QL65&keywords=lasko+heater)
 
 ### Treadmill $450
 
-![Screenshot](images/treadmill.JPG)
-![Screenshot](images/treadmill1.JPG)
+![Screenshot](images/treadmill.jpg)
+![Screenshot](images/treadmill1.jpg)
 - NordicTrack T 6.5 S Treadmill: [Amazon web link](https://www.amazon.com/NordicTrack-NTL17915-6-5-Treadmill/dp/B0193V3DJ6/ref=mp_s_a_1_3?ie=UTF8&qid=1544052263&sr=8-3&pi=AC_SX236_SY340_QL65&keywords=treadmill&dpPl=1&dpID=41Kif2i%2B41L&ref=plSrch)
 
 ### Slower Cooker $20
 
-![Screenshot](images/slower_cooker.JPG)
+![Screenshot](images/slower_cooker.jpg)
 - Hamilton Beach 33969A 6-Quart Programmable Set & Forget w/Temperature Probe Slow Cooker: [Amazon web link](https://www.amazon.com/Hamilton-Beach-33969A-Programmable-Temperature/dp/B00EZI26GO/ref=mp_s_a_1_3/135-4688022-4381325?ie=UTF8&qid=1544052076&sr=8-3&pi=AC_SX236_SY340_QL65&keywords=hamilton+beach+slow+cookers&dpPl=1&dpID=41y8mCPmmpL&ref=plSrch)
 
 ### Dehumidifier $100
 
-![Screenshot](images/dehumidifier.JPG)
+![Screenshot](images/dehumidifier.jpg)
 - Frigidaire FAD504DWD Energy Star 50-pint Dehumidifier: [Amazon web link](https://www.amazon.com/Frigidaire-FAD504DWD-Energy-50-pint-Dehumidifier/dp/B00AU7GYXA/ref=mp_s_a_1_4?ie=UTF8&qid=1544052145&sr=8-4&pi=AC_SX236_SY340_QL65&keywords=de+humidifers&dpPl=1&dpID=51DoGDnEwvL&ref=plSrch)
 
 ### Futon with Frame $100
 
-![Screenshot](images/futon_set.JPG)
-![Screenshot](images/futon_set1.JPG)
+![Screenshot](images/futon_set.jpg)
+![Screenshot](images/futon_set1.jpg)
 - KD Lounger Futon frame - Full: [Amazon web link](https://www.amazon.com/gp/product/B001IMQXUU/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
 
 
