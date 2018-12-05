@@ -29,7 +29,7 @@
 - [PicassoTiles 150 Piece ($40)](#picassotiles-150-piece)
 
 
-### Baby Care Play Mat
+### Baby Care Play Mat $30
 
 ![Screenshot](images/matt1.JPG)
 ![Screenshot](images/matt2.JPG)
