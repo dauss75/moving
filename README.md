@@ -32,6 +32,7 @@
   - [Fish Tank ($10)](#fish-tank-20)
   - [Booster Seat (free)](#booster-seat-free)
   - [Floaty (free)](#floaty-free)
+  - [Bowling toy (free)](#fbowling-toy-free)
 
 ### Baby Care Play Mat $30
 
@@ -183,8 +184,7 @@
 
 ### Magic Sand $20
 
-![Screenshot](images/magic_sand_1.JPG)
-![Screenshot](images/magic_sand_2.JPG)
+![Screenshot](images/magic_sand.JPG)
 
 ### Fish Tank $10
 
@@ -201,3 +201,7 @@
 
 ![Screenshot](images/floaty1.JPG)
 ![Screenshot](images/floaty2.JPG)
+
+### Bowling toy (free)
+
+![Screenshot](images/bowling.JPG)
