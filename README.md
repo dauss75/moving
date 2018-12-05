@@ -49,6 +49,7 @@
 ### Treadmill $450
 
 ![Screenshot](images/treadmill.JPG)
+![Screenshot](images/treadmill1.JPG)
 - NordicTrack T 6.5 S Treadmill: [Amazon web link](https://www.amazon.com/NordicTrack-NTL17915-6-5-Treadmill/dp/B0193V3DJ6/ref=mp_s_a_1_3?ie=UTF8&qid=1544052263&sr=8-3&pi=AC_SX236_SY340_QL65&keywords=treadmill&dpPl=1&dpID=41Kif2i%2B41L&ref=plSrch)
 
 ### Slower Cooker $20
