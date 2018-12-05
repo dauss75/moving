@@ -30,8 +30,8 @@
   - [PicassoTiles 150 Piece ($40)](#picassotiles-150-piece-40)
   - [Magic Sand ($20)](#magic-sand-20)
   - [Fish Tank ($10)](#fish-tank-20)
-  - [Booster Seat (free)](#)
-  - [Floaty (free)](#)
+  - [Booster Seat (free)](#booster-seat-free)
+  - [Floaty (free)](#floaty-free)
 
 ### Baby Care Play Mat $30
 
