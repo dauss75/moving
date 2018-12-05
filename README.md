@@ -21,10 +21,10 @@
 - [Animal Finger Puppets Kids Toy ($10)](animal-finger-puppets-kids-toy)
 - [Fat Brain Toys Squigz ($10)](fat-brain-toys-squigz)
 - [Car with remote control ($10)](car-with-remote-control)
-- [ZipBin 160 Dinosaur Collector Toy Box + 30 Dinosaur Figures ($20)]()
+- [ZipBin 160 Dinosaur Collector Toy Box + 30 Dinosaur Figures ($20)](zipbin-160-dinosaur-collector-toy-box--30-dinosaur-figures)
 - [Cash Register Toy ($10)](cash-register-toy)
-- [2nd Grade Spelling Flashcards+ Brain Quest Grade 2 ($20)]()
-- [DK Games: Silly Sentences ($5)]()
+- [2nd Grade Spelling Flashcards+ Brain Quest Grade 2 ($20)](2nd-grade-spelling-flashcards-brain-quest-grade-2)
+- [DK Games: Silly Sentences ($5)](dk-games-silly-sentences)
 - [Learning Resources Sum Swamp Game ($10)](learning-resources-sum-swamp-game)
 - [PicassoTiles 150 Piece ($40)](picassotiles-150-piece)
 
@@ -147,8 +147,7 @@
 ### ZipBin 160 Dinosaur Collector Toy Box + 30 Dinosaur Figures
 
 ![Screenshot](images/dinosaur.JPG)
-- ZipBin 160 Dinosaur Collector Toy Box + 30 Dinosaur Figures: [Amazon web link](https://www.amazon.com/ZipBin-Dinosaur-Collector-Play-Dinosaurs/dp/B000JXKWYC/ref=sr_1_19?s=toys-and-games&ie=UTF8&qid=1543878392&sr=1-19&keywords=dinosaur+toy
-https://www.amazon.com/Prextex-Realistic-Dinosaurs-Assorted-Dinosaur/dp/B011PLVBJG/ref=pd_bxgy_21_2?_encoding=UTF8&pd_rd_i=B011PLVBJG&pd_rd_r=226ec88c-f750-11e8-9dfe-9fa7d0e5ebe1&pd_rd_w=ZDtNz&pd_rd_wg=yG8ms&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=6725dbd6-9917-451d-beba-16af7874e407&pf_rd_r=BN656TFED16A5M0CYD20&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=BN656TFED16A5M0CYD20)
+- ZipBin 160 Dinosaur Collector Toy Box + 30 Dinosaur Figures: [Amazon web link](https://www.amazon.com/ZipBin-Dinosaur-Collector-Play-Dinosaurs/dp/B000JXKWYC/ref=sr_1_19?s=toys-and-games&ie=UTF8&qid=1543878392&sr=1-19&keywords=dinosaur+toy) [Amazon web link](https://www.amazon.com/Prextex-Realistic-Dinosaurs-Assorted-Dinosaur/dp/B011PLVBJG/ref=pd_bxgy_21_2?_encoding=UTF8&pd_rd_i=B011PLVBJG&pd_rd_r=226ec88c-f750-11e8-9dfe-9fa7d0e5ebe1&pd_rd_w=ZDtNz&pd_rd_wg=yG8ms&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=6725dbd6-9917-451d-beba-16af7874e407&pf_rd_r=BN656TFED16A5M0CYD20&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=BN656TFED16A5M0CYD20)
 
 ### Toy Cash Register
 
@@ -172,6 +171,6 @@ https://www.amazon.com/Prextex-Realistic-Dinosaurs-Assorted-Dinosaur/dp/B011PLVB
 
 ### PicassoTiles 150 Piece
 
-![Screenshot](images/PicassoTiles1)
-![Screenshot](images/PicassoTiles2)
+![Screenshot](images/PicassoTiles1.JPG)
+![Screenshot](images/PicassoTiles2.JPG)
 - PicassoTiles 150 Piece: [Amazon web link to 100 Piece](https://www.amazon.com/PicassoTiles-Construction-Inspirational-Recreational-Conventional/dp/B00AU56C5W/ref=sr_1_5?s=toys-and-games&ie=UTF8&qid=1543879343&sr=1-5&keywords=picasso+magnetic+tiles)
