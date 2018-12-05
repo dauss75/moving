@@ -85,12 +85,12 @@
 
 ### Floor Stand
 
-![Screenshot](images/floor_stand.jpg)
+![Screenshot](images/floor_stand.JPG)
 
 ### Book Case
 
-![Screenshot](images/book_case1.jpg)
-![Screenshot](images/book_case2.jpg)
+![Screenshot](images/book_case1.JPG)
+![Screenshot](images/book_case2.JPG)
 
 ### Deluxe Standing Art Easel
 
