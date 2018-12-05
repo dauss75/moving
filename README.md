@@ -4,8 +4,11 @@
 - [Space Heater $20](#space-heater-20)
 - [Treadmill $450](#treadmill-20)
 - [Slower Cooker $20](#slower-cooker-20)
-- [Dehumidifier $100][#dehumdifier-100]
-- [Futon with Frame $100][#futon-with-frame-100]
+- [Dehumidifier $100](#dehumdifier-100)
+- [Futon with Frame $100](#futon-with-frame-100)
+- [Bar Chair ($10)](#high-chair-20)
+- [Swivel Chair ($30)](#swivel-chair-30)
+- [Floor Stand ($10)](#floor-stand-10)
 
 ## Kids
 
@@ -16,9 +19,6 @@
   - [Baby Bundle ($20)](#baby-bundle-20)
   - [Kids Rocking Chair ($10)](#kids-rocking-chair-10)
   - [Korean Books for Kids $20](#korean-books-for-kids-20)
-  - [Bar Chair ($10)](#high-chair-20)
-  - [Swivel Chair ($30)](#swivel-chair-30)
-  - [Floor Stand ($10)](#floor-stand-10)
   - [Book Case ($10)](#book-case-10)
   - [Deluxe Standing Art Easel ($10)](#deluxe-standing-art-easel-10)
   - [Catch and Count Wooden Fishing Game ($10)](#catch-and-count-wooden-fishing-game-10)
