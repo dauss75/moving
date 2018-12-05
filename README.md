@@ -135,8 +135,7 @@ https://www.amazon.com/Learning-Resources-Swamp-Game-Pieces/dp/B00004TDLD/ref=sr
 
 ### Deluxe Wooden Magnetic Responsibility Chart
 
-![Screenshot](images/Magnetic_Responsibility_Chart1.JPG)
-![Screenshot](images/Magnetic_Responsibility_Chart2.JPG)
+![Screenshot](images/Magnetic_Responsibility_Chart.JPG)
 
 - Melissa & Doug Deluxe Wooden Magnetic Responsibility Chart: [Amazon web link](https://www.amazon.com/Melissa-Doug-Magnetic-Responsibility-Magnets/dp/B000NTZL7U/ref=sr_1_2?s=toys-and-games&ie=UTF8&qid=1543877234&sr=1-2&keywords=melissa+and+doug+responsibility+chart+for+kids)
 
