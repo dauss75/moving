@@ -1,5 +1,5 @@
 
-# List of items for sale
+# List of items for sale (Location: Mt. Greenwood, Chicago)
 ## Kids
 
   - [Baby Care Play Mat ($30)](#baby-care-play-mat-30)
