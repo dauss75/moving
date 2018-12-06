@@ -19,7 +19,7 @@
   - [Baby Bundle ($20)](#baby-bundle-20)
   - ~~[Kids Rocking Chair ($10)](#kids-rocking-chair-10)~~ (reserved)
   - ~~[Korean Books for Kids $20](#korean-books-for-kids-20)~~ (reserved)
-  - [Book Case ($10)](#book-case-10)
+  - ~~[Book Case ($10)](#book-case-10)~~ (reserved)
   - ~~[Deluxe Standing Art Easel ($10)](#deluxe-standing-art-easel-10)~~ (reserved)
   - [Catch and Count Wooden Fishing Game ($10)](#catch-and-count-wooden-fishing-game-10)
   - [Deluxe Wooden Magnetic Calendar ($10)](#deluxe-wooden-magnetic-calendar-10)
@@ -34,7 +34,7 @@
   - [2nd Grade Spelling Flashcards+ Brain Quest Grade 2 ($20)](#2nd-grade-spelling-flashcards-brain-quest-grade-2-20)
   - [DK Games: Silly Sentences ($5)](#dk-games-silly-sentences-5)
   - [Learning Resources Sum Swamp Game ($10)](#learning-resources-sum-swamp-game-10)
-  - [PicassoTiles 150 Piece ($40)](#picassotiles-150-piece-40)
+  - ~~[PicassoTiles 150 Piece ($40)](#picassotiles-150-piece-40)~~ (reserved)
   - [Magic Sand ($20)](#magic-sand-20)
   - [Fish Tank ($10)](#fish-tank-20)
   - ~~[Booster Seat (free)](#booster-seat-free)~~ (reserved)
@@ -130,7 +130,7 @@
 
 ![Screenshot](images/floor_stand.JPG)
 
-### Book Case $10
+~~### Book Case $10~~ (reserved)
 
 ![Screenshot](images/book_case1.JPG)
 ![Screenshot](images/book_case2.JPG)
@@ -213,7 +213,7 @@
 ![Screenshot](images/sum_swamp.JPG)
 - Learning Resources Sum Swamp Game, 8 Pieces: [Amazon web link](https://www.amazon.com/Learning-Resources-Swamp-Game-Pieces/dp/B00004TDLD/ref=sr_1_1_sspa?ie=UTF8&qid=1543879238&sr=8-1-spons&keywords=sum+swamp&psc=1)
 
-### PicassoTiles 150 Piece $40
+~~### PicassoTiles 150 Piece $40~~ (reserved)
 
 ![Screenshot](images/PicassoTiles1.JPG)
 ![Screenshot](images/PicassoTiles2.JPG)
