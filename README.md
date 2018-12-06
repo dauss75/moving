@@ -1,7 +1,7 @@
 
 # List of items for sale (Location: Mt. Greenwood, Chicago)
 
-- ~~[Space Heater $20](#space-heater-20)~~
+- ~~[Space Heater $20](#space-heater-20)~~ (reserved)
 - [Treadmill $450](#treadmill-20)
 - [Slower Cooker $20](#slower-cooker-20)
 - [Dehumidifier $100](#dehumdifier-100)
@@ -15,12 +15,12 @@
   - [Baby Care Play Mat ($30)](#baby-care-play-mat-30)
   - [Kids Twin Loft Bed with Slide and Mattress ($200)](#kids-twin-loft-bed-with-slide-and-mattress-200)
   - [Toy Organizer ($20)](#toy-organizer-20)
-  - ~~[Casio Keyboard ($15)](#casio-keyboard-15)~~
+  - ~~[Casio Keyboard ($15)](#casio-keyboard-15)~~ (reserved)
   - [Baby Bundle ($20)](#baby-bundle-20)
-  - ~~[Kids Rocking Chair ($10)](#kids-rocking-chair-10)~~
-  - ~~[Korean Books for Kids $20](#korean-books-for-kids-20)~~
+  - ~~[Kids Rocking Chair ($10)](#kids-rocking-chair-10)~~ (reserved)
+  - ~~[Korean Books for Kids $20](#korean-books-for-kids-20)~~ (reserved)
   - [Book Case ($10)](#book-case-10)
-  - ~~[Deluxe Standing Art Easel ($10)](#deluxe-standing-art-easel-10)~~
+  - ~~[Deluxe Standing Art Easel ($10)](#deluxe-standing-art-easel-10)~~ (reserved)
   - [Catch and Count Wooden Fishing Game ($10)](#catch-and-count-wooden-fishing-game-10)
   - [Deluxe Wooden Magnetic Calendar ($10)](#deluxe-wooden-magnetic-calendar-10)
   - [Deluxe Wooden Magnetic Responsibility Chart ($10)](#deluxe-wooden-magnetic-responsibility-chart-10)
@@ -37,16 +37,16 @@
   - [PicassoTiles 150 Piece ($40)](#picassotiles-150-piece-40)
   - [Magic Sand ($20)](#magic-sand-20)
   - [Fish Tank ($10)](#fish-tank-20)
-  - ~~[Booster Seat (free)](#booster-seat-free)~~
+  - ~~[Booster Seat (free)](#booster-seat-free)~~ (reserved)
   - [Floaty (free)](#floaty-free)
   - [Bowling toy (free)](#fbowling-toy-free)
 
 ----
 
-### ~~Space Heater $20
+~~### Space Heater $20~~ (reserved)
 
 ![Screenshot](images/space_heater.jpg)
-- Lasko 751320 Ceramic Tower Space Heater with Remote Control:  [Amazon web link](https://www.amazon.com/Lasko-751320-Ceramic-Heater-Control/dp/B000TTSXNI/ref=mp_s_a_1_16?ie=UTF8&qid=1544052369&sr=8-16&pi=AC_SX236_SY340_QL65&keywords=lasko+heater)~~
+- Lasko 751320 Ceramic Tower Space Heater with Remote Control:  [Amazon web link](https://www.amazon.com/Lasko-751320-Ceramic-Heater-Control/dp/B000TTSXNI/ref=mp_s_a_1_16?ie=UTF8&qid=1544052369&sr=8-16&pi=AC_SX236_SY340_QL65&keywords=lasko+heater)
 
 ### Treadmill $450
 
@@ -90,9 +90,9 @@
 ![Screenshot](images/toy_organizer.JPG)
 - Tot Tutors Kids' Toy Storage Organizer with 12 Plastic Bins, Natural/Primary: [Amazon web link]( https://www.amazon.com/Tot-Tutors-Storage-Organizer-Collection/dp/B000067PTO/ref=sr_1_3?ie=UTF8&qid=1543889928&sr=8-3&keywords=toy+organizer)
 
-~~### Casio Keyboard $15
+### Casio Keyboard $15
 
-![Screenshot](images/keyboard.JPG)~~
+![Screenshot](images/keyboard.JPG)
 
 ### Baby Bundle $20
 
@@ -101,7 +101,7 @@
 
 - Jj Cole Polar Bundleme Slate: [Amazon web link](https://www.amazon.com/Jj-Cole-Polar-Bundleme-Slate/dp/B00F2RFESY/ref=sr_1_1_a_it?ie=UTF8&qid=1543890161&sr=8-1&keywords=jj%2Bcole%2Bbundle%2Bme%2Btoddler&th=1)
 
-~~### Kids Rocking Chair $10
+### Kids Rocking Chair $10
 
 ![Screenshot](images/rocking_chair1.JPG)
 ![Screenshot](images/rocking_chair2.JPG)
@@ -111,7 +111,7 @@
 ![Screenshot](images/book1.JPG)
 ![Screenshot](images/book2.JPG)
 ![Screenshot](images/book3.JPG)
-![Screenshot](images/book4.JPG)~~
+![Screenshot](images/book4.JPG)
 
 ### Bar chair $10
 
@@ -135,12 +135,12 @@
 ![Screenshot](images/book_case1.JPG)
 ![Screenshot](images/book_case2.JPG)
 
-~~### Deluxe Standing Art Easel $10
+### Deluxe Standing Art Easel $10
 
 ![Screenshot](images/Standing_Art_Easel_1.JPG)
 ![Screenshot](images/Standing_Art_Easel_2.JPG)
 
-- Melissa & Doug Deluxe Standing Art Easel: [Amazon web link](https://www.amazon.com/Melissa-Doug-Deluxe-Standing-Easel/dp/B002JCS5JA/ref=asc_df_B002JCS5JA/?tag=hyprod-20&linkCode=df0&hvadid=198091266133&hvpos=1o1&hvnetw=g&hvrand=5136219000479195226&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9021756&hvtargid=pla-365707694369&psc=1)~~
+- Melissa & Doug Deluxe Standing Art Easel: [Amazon web link](https://www.amazon.com/Melissa-Doug-Deluxe-Standing-Easel/dp/B002JCS5JA/ref=asc_df_B002JCS5JA/?tag=hyprod-20&linkCode=df0&hvadid=198091266133&hvpos=1o1&hvnetw=g&hvrand=5136219000479195226&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9021756&hvtargid=pla-365707694369&psc=1)
 
 ### Catch and Count Wooden Fishing Game $10
 
@@ -229,10 +229,10 @@
 ![Screenshot](images/fishtank2.JPG)
 
 
-### ~~Booster Seat (free)
+### Booster Seat (free)
 
 ![Screenshot](images/booster_seat1.JPG)
-![Screenshot](images/booster_seat2.JPG)~~
+![Screenshot](images/booster_seat2.JPG)
 
 ### Floaty (free)
 
