@@ -43,7 +43,7 @@
 
 ----
 
-~~### Space Heater $20
+### ~~Space Heater $20
 
 ![Screenshot](images/space_heater.jpg)
 - Lasko 751320 Ceramic Tower Space Heater with Remote Control:  [Amazon web link](https://www.amazon.com/Lasko-751320-Ceramic-Heater-Control/dp/B000TTSXNI/ref=mp_s_a_1_16?ie=UTF8&qid=1544052369&sr=8-16&pi=AC_SX236_SY340_QL65&keywords=lasko+heater)~~
@@ -229,7 +229,7 @@
 ![Screenshot](images/fishtank2.JPG)
 
 
-~~### Booster Seat (free)
+### ~~Booster Seat (free)
 
 ![Screenshot](images/booster_seat1.JPG)
 ![Screenshot](images/booster_seat2.JPG)~~
