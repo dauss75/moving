@@ -90,7 +90,7 @@
 ![Screenshot](images/toy_organizer.JPG)
 - Tot Tutors Kids' Toy Storage Organizer with 12 Plastic Bins, Natural/Primary: [Amazon web link]( https://www.amazon.com/Tot-Tutors-Storage-Organizer-Collection/dp/B000067PTO/ref=sr_1_3?ie=UTF8&qid=1543889928&sr=8-3&keywords=toy+organizer)
 
-### Casio Keyboard $15
+~~### Casio Keyboard $15~~ (reserved)
 
 ![Screenshot](images/keyboard.JPG)
 
@@ -101,12 +101,12 @@
 
 - Jj Cole Polar Bundleme Slate: [Amazon web link](https://www.amazon.com/Jj-Cole-Polar-Bundleme-Slate/dp/B00F2RFESY/ref=sr_1_1_a_it?ie=UTF8&qid=1543890161&sr=8-1&keywords=jj%2Bcole%2Bbundle%2Bme%2Btoddler&th=1)
 
-### Kids Rocking Chair $10
+~~### Kids Rocking Chair $10~~ (reserved)
 
 ![Screenshot](images/rocking_chair1.JPG)
 ![Screenshot](images/rocking_chair2.JPG)
 
-### Korean Books for Kids $20
+~~### Korean Books for Kids $20~~ (reserved)
 
 ![Screenshot](images/book1.JPG)
 ![Screenshot](images/book2.JPG)
@@ -135,7 +135,7 @@
 ![Screenshot](images/book_case1.JPG)
 ![Screenshot](images/book_case2.JPG)
 
-### Deluxe Standing Art Easel $10
+~~### Deluxe Standing Art Easel $10~~ (reserved)
 
 ![Screenshot](images/Standing_Art_Easel_1.JPG)
 ![Screenshot](images/Standing_Art_Easel_2.JPG)
@@ -229,7 +229,7 @@
 ![Screenshot](images/fishtank2.JPG)
 
 
-### Booster Seat (free)
+~~### Booster Seat (free)~~ (reserved)
 
 ![Screenshot](images/booster_seat1.JPG)
 ![Screenshot](images/booster_seat2.JPG)
