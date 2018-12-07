@@ -14,7 +14,6 @@
 - [Brad Nailer ($15)](#brad-nailer-15)
 - [Astor Bellows for Wood and Coal Fires $10](#astor-bellows-for-wood-and-coal-fires-10)
 - [Ash Vacuum ($30)](#ash-vacuum-30)
-- [Wood Rack $20](#wood-rack-20)
 - [Kyozasang $20](#kyozasang-20)
 - [Snow Thrower $80](#snow-thrower-80)
 - [Lawn Mower $60](#lawn-mower-60)
@@ -101,9 +100,6 @@
 ![Screenshot](images/ash_vacuum.jpg)
 - PowerSmith PAVC101 10 Amp Ash Vacuum: [Amazon web link](https://www.amazon.com/gp/product/B0060EUA32/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
 
-### Wood Rack $20
-
-![Screenshot](images/work_table.jpg)
 
 ### Snow Thrower $80
 
