@@ -127,7 +127,7 @@
 ### Grass Trimmer $40
 
 ![Screenshot](images/trimmer.jpg)
--Worx WG163 GT 3.0 20V Cordless Grass Trimmer/Edger with Command Feed, 12", 2 Batteries and Charger Included: [Amazon web link](https://www.amazon.com/gp/product/B018S68U40/ref=oh_aui_search_detailpage?ie=UTF8&th=1)
+- Worx WG163 GT 3.0 20V Cordless Grass Trimmer/Edger with Command Feed, 12", 2 Batteries and Charger Included: [Amazon web link](https://www.amazon.com/gp/product/B018S68U40/ref=oh_aui_search_detailpage?ie=UTF8&th=1)
 
 ### Fiskars Deluxe Stand-up Weeder $15
 
