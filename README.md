@@ -124,7 +124,7 @@
 ![Screenshot](images/extension_cord.jpg)
 - US Wire - Power-On Lighted Extension Cord - SJTW Heavy-Duty 100-Feet: [Amazon web link](https://www.amazon.com/gp/product/B0020YKLQW/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
 
-### Grass Trimmer $40
+~~### Grass Trimmer $40~~ (reserved)
 
 ![Screenshot](images/trimmer.jpg)
 - Worx WG163 GT 3.0 20V Cordless Grass Trimmer/Edger, 12", 2 Batteries and Charger Included: [Amazon web link](https://www.amazon.com/gp/product/B018S68U40/ref=oh_aui_search_detailpage?ie=UTF8&th=1)
