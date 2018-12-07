@@ -21,7 +21,7 @@
 - [Dethatcher $75](#dethatcher-75)
 - [Heavy-Duty Lighted Extension Cord $20](#heavy-duty-lighted-extension-cord-20)
 - [Grass Trimmer $40](#grass-trimmer-40)
-- [Fiskars Deluxe Stand-up Weeder $15](#Fiskars Deluxe Stand-up Weeder)
+- [Fiskars Deluxe Stand-up Weeder $15](#fiskars-deluxe-stand-up-weeder-15)
 - [Ladder $40](#ladder-40)
 - [Schwinn Bike $90](#schwinn-bike-90)
 - [Cart $10](#cart-10)
@@ -31,9 +31,9 @@
 
 
 ## Kids
-  - []
-  - [Little Tikes TotSports T-Ball Set $5](#)
-  - [Summer Infant 6-Panel PlaySafe Playard + Extension Kit $30](summer-infant-6-Panel-playSafe Playard + Extension Kit-30)
+
+  - [Little Tikes TotSports T-Ball Set $5](#little-tikes-totsports-t-ball-set-5)
+  - [Summer Infant 6-Panel PlaySafe Playard + Extension Kit $30](#summer-infant-6-panel-playsafe-playard--extension-kit-30)
   - [Kids Scotter $20](kids-scotter-20)
   - [Kids Bike $30](#kids-bike-30)
   - [Electric Car $40](#electric-car-40)
