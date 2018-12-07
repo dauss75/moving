@@ -99,7 +99,7 @@
 ### Ash Vacuum $30
 
 ![Screenshot](images/ash_vacuum.jpg)
-PowerSmith PAVC101 10 Amp Ash Vacuum: [Amazon web link](https://www.amazon.com/gp/product/B0060EUA32/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
+- PowerSmith PAVC101 10 Amp Ash Vacuum: [Amazon web link](https://www.amazon.com/gp/product/B0060EUA32/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
 
 ### Wood Rack $20
 
