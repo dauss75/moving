@@ -9,7 +9,6 @@
 - [Bar Chair ($10)](#high-chair-20)
 - ~~[Swivel Chair ($30)](#swivel-chair-30)~~ (reserved)
 - [Floor Stand ($10)](#floor-stand-10)
-- [Inversion Table ($100)](#inversion-table-100)
 - [Air Compressor ($80)](#air-compressor-80)
 - ~~[Brad Nailer ($15)](#brad-nailer-15)~~ (reserved)
 - [Astor Bellows for Wood and Coal Fires $10](#astor-bellows-for-wood-and-coal-fires-10)
@@ -71,13 +70,6 @@
 
 ![Screenshot](images/kyzasang.jpg)
 ![Screenshot](images/kyzasang1.jpg)
-
-### Inversion table $100
-
-![Screenshot](images/inversion_table.jpg)
-![Screenshot](images/inversion_table2.jpg)
-
-- IRONMAN Gravity 4000 Highest Weight Capacity Inversion Table: [Amazon web link](https://www.amazon.com/gp/product/B000VSKAI8/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
 
 ### Air Compressor $80
 
