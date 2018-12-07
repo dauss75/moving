@@ -11,10 +11,10 @@
 - [Floor Stand ($10)](#floor-stand-10)
 - [Inversion Table ($100)](#inversion-table-100)
 - [Air Compressor ($80)](#air-compressor-80)
-- [Brad Nailer ($15)](#brad-nailer-15)
+- ~~[Brad Nailer ($15)](#brad-nailer-15)~~ (reserved)
 - [Astor Bellows for Wood and Coal Fires $10](#astor-bellows-for-wood-and-coal-fires-10)
-- [Ash Vacuum ($30)](#ash-vacuum-30)
-- [Kyozasang $20](#kyozasang-20)
+- ~~[Ash Vacuum ($30)](#ash-vacuum-30)~~ (reserved)
+- ~~[Kyozasang $20](#kyozasang-20)~~ (reserved)
 - [Snow Thrower $80](#snow-thrower-80)
 - [Lawn Mower $60](#lawn-mower-60)
 - [Dethatcher $75](#dethatcher-75)
@@ -67,7 +67,7 @@
 
 ----
 
-### Kyozasang $20
+~~### Kyozasang $20~~ (reserved)
 
 ![Screenshot](images/kyzasang.jpg)
 ![Screenshot](images/kyzasang1.jpg)
@@ -86,7 +86,7 @@
 
 - Craftsman 2 Gallon Air Compressor 110 PSI (910265): [ACE hardware web link](https://www.acehardware.com/departments/tools/air-compressors-and-tools/air-compressors/1560408?x429=true&utm_source=google&utm_medium=cpc&gclid=EAIaIQobChMI5OaMlrqM3wIVlddkCh3n6QnhEAQYASABEgLoyPD_BwE)
 
-### Brad Nailer $15
+~~### Brad Nailer $15~~ (reserved)
 
 ![Screenshot](images/nailer.jpg)
 - WEN 61720 3/4-Inch to 2-Inch 18-Gauge Brad Nailer: [Amazon web link](https://www.amazon.com/gp/product/B000EJW1ZY/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
@@ -95,7 +95,7 @@
 
 ![Screenshot](images/fire_blower.jpg)
 
-### Ash Vacuum $30
+~~### Ash Vacuum $30~~ (reserved)
 
 ![Screenshot](images/ash_vacuum.jpg)
 - PowerSmith PAVC101 10 Amp Ash Vacuum: [Amazon web link](https://www.amazon.com/gp/product/B0060EUA32/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
