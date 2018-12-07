@@ -7,7 +7,7 @@
 - [Dehumidifier $100](#dehumdifier-100)
 - [Futon with Frame $100](#futon-with-frame-100)
 - [Bar Chair ($10)](#high-chair-20)
-- [Swivel Chair ($30)](#swivel-chair-30)
+- ~~[Swivel Chair ($30)](#swivel-chair-30)~~ (reserved)
 - [Floor Stand ($10)](#floor-stand-10)
 - [Inversion Table ($100)](#inversion-table-100)
 - [Air Compressor ($80)](#air-compressor-80)
@@ -15,16 +15,16 @@
 - [Astor Bellows for Wood and Coal Fires $10](#astor-bellows-for-wood-and-coal-fires-10)
 - ~~[Ash Vacuum ($30)](#ash-vacuum-30)~~ (reserved)
 - ~~[Kyozasang $20](#kyozasang-20)~~ (reserved)
-- [Snow Thrower $80](#snow-thrower-80)
+- ~~[Snow Thrower $80](#snow-thrower-80)~~ (reserved)
 - [Lawn Mower $60](#lawn-mower-60)
 - [Dethatcher $75](#dethatcher-75)
 - [Heavy-Duty Lighted Extension Cord $20](#heavy-duty-lighted-extension-cord-20)
-- [Grass Trimmer $40](#grass-trimmer-40)
+- ~~[Grass Trimmer $40](#grass-trimmer-40)~~ (reserved)
 - [Fiskars Deluxe Stand-up Weeder $15](#fiskars-deluxe-stand-up-weeder-15)
 - [Ladder $40](#ladder-40)
 - [Schwinn Bike $90](#schwinn-bike-90)
 - [Cart $10](#cart-10)
-- [Axe $15](#axe-15)
+- ~~[Axe $15](#axe-15)~~ (reserved)
 - [Mini Broadcast Spreader $15](#mini-broadcast-spreader-15)
 
 
@@ -101,7 +101,7 @@
 - PowerSmith PAVC101 10 Amp Ash Vacuum: [Amazon web link](https://www.amazon.com/gp/product/B0060EUA32/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
 
 
-### Snow Thrower $80
+~~### Snow Thrower $80~~ (reserved)
 
 ![Screenshot](images/snow_blower1.jpg)
 ![Screenshot](images/snow_blower2.jpg)
@@ -134,7 +134,7 @@
 ![Screenshot](images/weed_remover.jpg)
 - Fiskars Deluxe Stand-up Weeder (4-claw): [Amazon web link](https://www.amazon.com/gp/product/B0030MIHAU/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
 
-### Axe $15
+~~### Axe $15~~ (reserved)
 
 ![Screenshot](images/axe.jpg)
 - Fiskars X17 Splitting Axe, 23.5-Inch: [Amazon web link](https://www.amazon.com/gp/product/B0002YTOFG/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
@@ -259,7 +259,7 @@
 ![Screenshot](images/high_chair2.JPG)
 - Ikea Bar Stool: [IKEA web link](https://www.ikea.com/us/en/catalog/products/70404875/)
 
-### Swivel Chair $30
+~~### Swivel Chair $30~~ (reserved)
 
 ![Screenshot](images/swivel_chair1.JPG)
 ![Screenshot](images/swivel_chair2.JPG)
