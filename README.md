@@ -11,7 +11,7 @@
 - [Floor Stand ($10)](#floor-stand-10)
 - [Inversion Table ($100)](#inversion-table-100)
 - [Air Compressor ($80)](#air-compressor-80)
-- [Brad Nailer ($20)](#brad-nailer-20)
+- [Brad Nailer ($15)](#brad-nailer-15)
 - [Astor Bellows for Wood and Coal Fires $10](#astor-bellows-for-wood-and-coal-fires-10)
 - [Ash Vacuum ($30)](#ash-vacuum-30)
 - [Wood Rack $20](#wood-rack-20)
@@ -80,14 +80,14 @@
 
 - IRONMAN Gravity 4000 Highest Weight Capacity Inversion Table: [Amazon web link](https://www.amazon.com/gp/product/B000VSKAI8/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
 
-### Air Compressor ($80)
+### Air Compressor $80
 
 ![Screenshot](images/air_compressor1.jpg)
 ![Screenshot](images/air_compressor2.jpg)
 
 - Craftsman 2 Gallon Air Compressor 110 PSI (910265): [ACE hardware web link](https://www.acehardware.com/departments/tools/air-compressors-and-tools/air-compressors/1560408?x429=true&utm_source=google&utm_medium=cpc&gclid=EAIaIQobChMI5OaMlrqM3wIVlddkCh3n6QnhEAQYASABEgLoyPD_BwE)
 
-### Brad Nailer ($20)
+### Brad Nailer $15
 
 ![Screenshot](images/nailer.jpg)
 - WEN 61720 3/4-Inch to 2-Inch 18-Gauge Brad Nailer: [Amazon web link](https://www.amazon.com/gp/product/B000EJW1ZY/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
