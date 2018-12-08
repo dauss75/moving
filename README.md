@@ -356,13 +356,13 @@
 ![Screenshot](images/booster_seat1.JPG)
 ![Screenshot](images/booster_seat2.JPG)
 
-~~### Fiskars Deluxe Stand-up Weeder $15
+~~### Fiskars Deluxe Stand-up Weeder $15~~
 
 ![Screenshot](images/weed_remover.jpg)
-- Fiskars Deluxe Stand-up Weeder (4-claw): [Amazon web link](https://www.amazon.com/gp/product/B0030MIHAU/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
+- ~~Fiskars Deluxe Stand-up Weeder (4-claw): [Amazon web link](https://www.amazon.com/gp/product/B0030MIHAU/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)~~
 
-### Mini Broadcast Spreader $15
+~~### Mini Broadcast Spreader $15~~
 
 ![Screenshot](images/spray1.jpg)
 ![Screenshot](images/spray2.jpg)
-- Scotts Turf Builder EdgeGuard Mini Broadcast Spreader: [Amazon web link](https://www.amazon.com/gp/product/B002YPS1KK/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)~~
+- ~~Scotts Turf Builder EdgeGuard Mini Broadcast Spreader: [Amazon web link](https://www.amazon.com/gp/product/B002YPS1KK/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)~~
