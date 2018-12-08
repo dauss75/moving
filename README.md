@@ -63,11 +63,6 @@
 
 ----
 
-~~### Kyozasang $20~~ (reserved)
-
-![Screenshot](images/kyzasang.jpg)
-![Screenshot](images/kyzasang1.jpg)
-
 ### Air Compressor $80
 
 ![Screenshot](images/air_compressor1.jpg)
@@ -75,26 +70,9 @@
 
 - Craftsman 2 Gallon Air Compressor 110 PSI (910265): [ACE hardware web link](https://www.acehardware.com/departments/tools/air-compressors-and-tools/air-compressors/1560408?x429=true&utm_source=google&utm_medium=cpc&gclid=EAIaIQobChMI5OaMlrqM3wIVlddkCh3n6QnhEAQYASABEgLoyPD_BwE)
 
-~~### Brad Nailer $15~~ (reserved)
-
-![Screenshot](images/nailer.jpg)
-~~- WEN 61720 3/4-Inch to 2-Inch 18-Gauge Brad Nailer: [Amazon web link](https://www.amazon.com/gp/product/B000EJW1ZY/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)~~
-
 ### Astor Bellows for Wood and Coal Fires $10
 
 ![Screenshot](images/fire_blower.jpg)
-
-~~### Ash Vacuum $30~~ (reserved)
-
-![Screenshot](images/ash_vacuum.jpg)
-~~- PowerSmith PAVC101 10 Amp Ash Vacuum: [Amazon web link](https://www.amazon.com/gp/product/B0060EUA32/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)~~
-
-
-~~### Snow Thrower $80~~ (reserved)
-
-![Screenshot](images/snow_blower1.jpg)
-![Screenshot](images/snow_blower2.jpg)
-~~- Snow Joe Ultra SJ621 18-Inch 13.5-Amp Electric Snow Thrower with Light: [Amazon web link](https://www.amazon.com/gp/product/B0040X4VB2/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)~~
 
 ### Lawn Mower $60
 
@@ -113,20 +91,10 @@
 ![Screenshot](images/extension_cord.jpg)
 - US Wire - Power-On Lighted Extension Cord - SJTW Heavy-Duty 100-Feet: [Amazon web link](https://www.amazon.com/gp/product/B0020YKLQW/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
 
-~~### Grass Trimmer $40~~ (reserved)
-
-![Screenshot](images/trimmer.jpg)
-~~- Worx WG163 GT 3.0 20V Cordless Grass Trimmer/Edger, 12", 2 Batteries and Charger Included: [Amazon web link](https://www.amazon.com/gp/product/B018S68U40/ref=oh_aui_search_detailpage?ie=UTF8&th=1)~~
-
 ### Fiskars Deluxe Stand-up Weeder $15
 
 ![Screenshot](images/weed_remover.jpg)
 - Fiskars Deluxe Stand-up Weeder (4-claw): [Amazon web link](https://www.amazon.com/gp/product/B0030MIHAU/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
-
-~~### Axe $15~~ (reserved)
-
-![Screenshot](images/axe.jpg)
-~~- Fiskars X17 Splitting Axe, 23.5-Inch: [Amazon web link](https://www.amazon.com/gp/product/B0002YTOFG/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)~~
 
 ### Mini Broadcast Spreader $15
 
@@ -139,12 +107,6 @@
 ![Screenshot](images/ladder.jpg)
 ![Screenshot](images/ladder1.jpg)
 - Louisville Ladder FS4006, 6-Foot, Green: [Amazon web link](https://www.amazon.com/gp/product/B0013KWOPK/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)  
-
-~~### Space Heater $20~~ (reserved)
-
-![Screenshot](images/space_heater.jpg)
-~~- Lasko 751320 Ceramic Tower Space Heater with Remote Control:  [Amazon web link](https://www.amazon.com/Lasko-751320-Ceramic-Heater-Control/dp/B000TTSXNI/ref=mp_s_a_1_16?ie=UTF8&qid=1544052369&sr=8-16&pi=AC_SX236_SY340_QL65&keywords=lasko+heater)~~
-
 
 ### Slower Cooker $20
 
@@ -209,15 +171,6 @@
 - Zinus Memory Foam 8 Inch Green Tea Mattress, Twin: [Amazon web link](https://www.amazon.com/dp/B00Q7FWQKO/ref=twister_B07792YVXM?_encoding=UTF8&psc=1)
 
 
-~~### Toy Organizer $20~~ (reserved)
-
-![Screenshot](images/toy_organizer.JPG)
-~~- Tot Tutors Kids' Toy Storage Organizer with 12 Plastic Bins, Natural/Primary: [Amazon web link]( https://www.amazon.com/Tot-Tutors-Storage-Organizer-Collection/dp/B000067PTO/ref=sr_1_3?ie=UTF8&qid=1543889928&sr=8-3&keywords=toy+organizer)~~
-
-~~### Casio Keyboard $15~~ (reserved)
-
-![Screenshot](images/keyboard.JPG)
-
 ### Baby Bundle $20
 
 ![Screenshot](images/bundle1.JPG)
@@ -225,46 +178,15 @@
 
 - Jj Cole Polar Bundleme Slate: [Amazon web link](https://www.amazon.com/Jj-Cole-Polar-Bundleme-Slate/dp/B00F2RFESY/ref=sr_1_1_a_it?ie=UTF8&qid=1543890161&sr=8-1&keywords=jj%2Bcole%2Bbundle%2Bme%2Btoddler&th=1)
 
-~~### Kids Rocking Chair $10~~ (reserved)
-
-![Screenshot](images/rocking_chair1.JPG)
-![Screenshot](images/rocking_chair2.JPG)
-
-~~### Korean Books for Kids $20~~ (reserved)
-
-![Screenshot](images/book1.JPG)
-![Screenshot](images/book2.JPG)
-![Screenshot](images/book3.JPG)
-![Screenshot](images/book4.JPG)
-
 ### Bar chair $10
 
 ![Screenshot](images/high_chair1.JPG)
 ![Screenshot](images/high_chair2.JPG)
 - Ikea Bar Stool: [IKEA web link](https://www.ikea.com/us/en/catalog/products/70404875/)
 
-~~### Swivel Chair $30~~ (reserved)
-
-![Screenshot](images/swivel_chair1.JPG)
-![Screenshot](images/swivel_chair2.JPG)
-
-- Ikea MARKUS Swivel chair: [IKEA web link](https://www.ikea.com/us/en/catalog/products/00103102/)
-
 ### Floor Stand $10
 
 ![Screenshot](images/floor_stand.JPG)
-
-~~### Book Case $10~~ (reserved)
-
-![Screenshot](images/book_case1.JPG)
-![Screenshot](images/book_case2.JPG)
-
-~~### Deluxe Standing Art Easel $10~~ (reserved)
-
-![Screenshot](images/Standing_Art_Easel_1.JPG)
-![Screenshot](images/Standing_Art_Easel_2.JPG)
-
-- Melissa & Doug Deluxe Standing Art Easel: [Amazon web link](https://www.amazon.com/Melissa-Doug-Deluxe-Standing-Easel/dp/B002JCS5JA/ref=asc_df_B002JCS5JA/?tag=hyprod-20&linkCode=df0&hvadid=198091266133&hvpos=1o1&hvnetw=g&hvrand=5136219000479195226&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9021756&hvtargid=pla-365707694369&psc=1)
 
 ### Catch and Count Wooden Fishing Game $10
 
@@ -296,11 +218,6 @@
 ![Screenshot](images/StarWars_Early_Readers_Level1-3_2.JPG)
 
 - DK Star Wars: Ultimate Library Box Set with 20 Volumes for Early Readers Level 1-3 in Slipcase: [Amazon web link](https://www.amazon.com/Star-Wars-Ultimate-Library-Slipcase/dp/1465442146/ref=sr_1_4?s=digital-text&ie=UTF8&qid=1543877539&sr=8-4&keywords=DK+ultimate+library+star+wars+book)
-
-~~### Animal Finger Puppets Kids Toy (1 Dozen) $5~~ (reserved)
-
-![Screenshot](images/Animal_Finger_Puppets.JPG)
-~~- Animal Finger Puppets Kids Toy (1 Dozen): [Amazon web link](https://www.amazon.com/dp/B001E3B9J8/ref=nav_timeline_asin?_encoding=UTF8&psc=1)~~
 
 ### Fat Brain Toys Squigz $10
 
@@ -337,12 +254,6 @@
 ![Screenshot](images/sum_swamp.JPG)
 - Learning Resources Sum Swamp Game, 8 Pieces: [Amazon web link](https://www.amazon.com/Learning-Resources-Swamp-Game-Pieces/dp/B00004TDLD/ref=sr_1_1_sspa?ie=UTF8&qid=1543879238&sr=8-1-spons&keywords=sum+swamp&psc=1)
 
-~~### PicassoTiles 150 Piece $40~~ (reserved)
-
-![Screenshot](images/PicassoTiles1.JPG)
-![Screenshot](images/PicassoTiles2.JPG)
-~~- PicassoTiles 150 Piece: [Amazon web link to 100 Piece](https://www.amazon.com/PicassoTiles-Construction-Inspirational-Recreational-Conventional/dp/B00AU56C5W/ref=sr_1_5?s=toys-and-games&ie=UTF8&qid=1543879343&sr=1-5&keywords=picasso+magnetic+tiles)~~
-
 ### Magic Sand $20
 
 ![Screenshot](images/magic_sand.JPG)
@@ -353,11 +264,6 @@
 ![Screenshot](images/fishtank2.JPG)
 
 
-~~### Booster Seat (free)~~ (reserved)
-
-![Screenshot](images/booster_seat1.JPG)
-![Screenshot](images/booster_seat2.JPG)
-
 ### Floaty (free)
 
 ![Screenshot](images/floaty1.JPG)
@@ -366,3 +272,97 @@
 ### Bowling toy (free)
 
 ![Screenshot](images/bowling.JPG)
+
+~~### Kyozasang $20~~ (reserved)
+
+![Screenshot](images/kyzasang.jpg)
+![Screenshot](images/kyzasang1.jpg)
+
+~~### Brad Nailer $15~~ (reserved)
+
+![Screenshot](images/nailer.jpg)
+~~- WEN 61720 3/4-Inch to 2-Inch 18-Gauge Brad Nailer: [Amazon web link](https://www.amazon.com/gp/product/B000EJW1ZY/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)~~
+
+~~### Ash Vacuum $30~~ (reserved)
+
+![Screenshot](images/ash_vacuum.jpg)
+~~- PowerSmith PAVC101 10 Amp Ash Vacuum: [Amazon web link](https://www.amazon.com/gp/product/B0060EUA32/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)~~
+
+
+~~### Snow Thrower $80~~ (reserved)
+
+![Screenshot](images/snow_blower1.jpg)
+![Screenshot](images/snow_blower2.jpg)
+~~- Snow Joe Ultra SJ621 18-Inch 13.5-Amp Electric Snow Thrower with Light: [Amazon web link](https://www.amazon.com/gp/product/B0040X4VB2/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)~~
+
+~~### Grass Trimmer $40~~ (reserved)
+
+![Screenshot](images/trimmer.jpg)
+~~- Worx WG163 GT 3.0 20V Cordless Grass Trimmer/Edger, 12", 2 Batteries and Charger Included: [Amazon web link](https://www.amazon.com/gp/product/B018S68U40/ref=oh_aui_search_detailpage?ie=UTF8&th=1)~~
+
+~~### Axe $15~~ (reserved)
+
+![Screenshot](images/axe.jpg)
+~~- Fiskars X17 Splitting Axe, 23.5-Inch: [Amazon web link](https://www.amazon.com/gp/product/B0002YTOFG/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)~~
+
+~~### Space Heater $20~~ (reserved)
+
+![Screenshot](images/space_heater.jpg)
+~~- Lasko 751320 Ceramic Tower Space Heater with Remote Control:  [Amazon web link](https://www.amazon.com/Lasko-751320-Ceramic-Heater-Control/dp/B000TTSXNI/ref=mp_s_a_1_16?ie=UTF8&qid=1544052369&sr=8-16&pi=AC_SX236_SY340_QL65&keywords=lasko+heater)~~
+
+~~### Toy Organizer $20~~ (reserved)
+
+![Screenshot](images/toy_organizer.JPG)
+~~- Tot Tutors Kids' Toy Storage Organizer with 12 Plastic Bins, Natural/Primary: [Amazon web link]( https://www.amazon.com/Tot-Tutors-Storage-Organizer-Collection/dp/B000067PTO/ref=sr_1_3?ie=UTF8&qid=1543889928&sr=8-3&keywords=toy+organizer)~~
+
+~~### Casio Keyboard $15~~ (reserved)
+
+![Screenshot](images/keyboard.JPG)
+
+~~### Kids Rocking Chair $10~~ (reserved)
+
+![Screenshot](images/rocking_chair1.JPG)
+![Screenshot](images/rocking_chair2.JPG)
+
+~~### Korean Books for Kids $20~~ (reserved)
+
+![Screenshot](images/book1.JPG)
+![Screenshot](images/book2.JPG)
+![Screenshot](images/book3.JPG)
+![Screenshot](images/book4.JPG)
+
+~~### Swivel Chair $30~~ (reserved)
+
+![Screenshot](images/swivel_chair1.JPG)
+![Screenshot](images/swivel_chair2.JPG)
+
+~~- Ikea MARKUS Swivel chair: [IKEA web link](https://www.ikea.com/us/en/catalog/products/00103102/)~~
+
+
+~~### Book Case $10~~ (reserved)
+
+![Screenshot](images/book_case1.JPG)
+![Screenshot](images/book_case2.JPG)
+
+~~### Deluxe Standing Art Easel $10~~ (reserved)
+
+![Screenshot](images/Standing_Art_Easel_1.JPG)
+![Screenshot](images/Standing_Art_Easel_2.JPG)
+
+~~- Melissa & Doug Deluxe Standing Art Easel: [Amazon web link](https://www.amazon.com/Melissa-Doug-Deluxe-Standing-Easel/dp/B002JCS5JA/ref=asc_df_B002JCS5JA/?tag=hyprod-20&linkCode=df0&hvadid=198091266133&hvpos=1o1&hvnetw=g&hvrand=5136219000479195226&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9021756&hvtargid=pla-365707694369&psc=1)~~
+
+~~### Animal Finger Puppets Kids Toy (1 Dozen) $5~~ (reserved)
+
+![Screenshot](images/Animal_Finger_Puppets.JPG)
+~~- Animal Finger Puppets Kids Toy (1 Dozen): [Amazon web link](https://www.amazon.com/dp/B001E3B9J8/ref=nav_timeline_asin?_encoding=UTF8&psc=1)~~
+
+~~### PicassoTiles 150 Piece $40~~ (reserved)
+
+![Screenshot](images/PicassoTiles1.JPG)
+![Screenshot](images/PicassoTiles2.JPG)
+~~- PicassoTiles 150 Piece: [Amazon web link to 100 Piece](https://www.amazon.com/PicassoTiles-Construction-Inspirational-Recreational-Conventional/dp/B00AU56C5W/ref=sr_1_5?s=toys-and-games&ie=UTF8&qid=1543879343&sr=1-5&keywords=picasso+magnetic+tiles)~~
+
+~~### Booster Seat (free)~~ (reserved)
+
+![Screenshot](images/booster_seat1.JPG)
+![Screenshot](images/booster_seat2.JPG)
