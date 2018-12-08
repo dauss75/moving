@@ -2,7 +2,7 @@
 # List of items for sale (Location: Mt. Greenwood, Chicago)
 
 - ~~[Space Heater $20](#space-heater-20)~~ (reserved)
-- [Treadmill $450](#treadmill-20)
+- ~~[Treadmill $450](#treadmill-20)~~ (reserved)
 - [Slower Cooker $20](#slower-cooker-20)
 - [Dehumidifier $100](#dehumdifier-100)
 - [Futon with Frame $100](#futon-with-frame-100)
@@ -148,7 +148,7 @@
 ![Screenshot](images/space_heater.jpg)
 - Lasko 751320 Ceramic Tower Space Heater with Remote Control:  [Amazon web link](https://www.amazon.com/Lasko-751320-Ceramic-Heater-Control/dp/B000TTSXNI/ref=mp_s_a_1_16?ie=UTF8&qid=1544052369&sr=8-16&pi=AC_SX236_SY340_QL65&keywords=lasko+heater)
 
-### Treadmill $450
+~~### Treadmill $450~~ (reserved)
 
 ![Screenshot](images/treadmill.jpg)
 ![Screenshot](images/treadmill1.jpg)
