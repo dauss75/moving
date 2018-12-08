@@ -354,7 +354,7 @@
 ~~### Animal Finger Puppets Kids Toy (1 Dozen) $5~~ (reserved)
 
 ![Screenshot](images/Animal_Finger_Puppets.JPG)
-- ~~ Animal Finger Puppets Kids Toy (1 Dozen): [Amazon web link](https://www.amazon.com/dp/B001E3B9J8/ref=nav_timeline_asin?_encoding=UTF8&psc=1)~~
+- ~~Animal Finger Puppets Kids Toy (1 Dozen): [Amazon web link](https://www.amazon.com/dp/B001E3B9J8/ref=nav_timeline_asin?_encoding=UTF8&psc=1)~~
 
 ~~### PicassoTiles 150 Piece $40~~ (reserved)
 
