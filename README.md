@@ -11,19 +11,19 @@
 - [Lawn Mower $60](#lawn-mower-60)
 - [Dethatcher $75](#dethatcher-75)
 - [Heavy-Duty Lighted Extension Cord $20](#heavy-duty-lighted-extension-cord-20)
-- [Fiskars Deluxe Stand-up Weeder $15](#fiskars-deluxe-stand-up-weeder-15)
 - [Ladder $40](#ladder-40)
 - [Schwinn Bike $90](#schwinn-bike-90)
 - [Cart $10](#cart-10)
-- [Mini Broadcast Spreader $15](#mini-broadcast-spreader-15)
-- ~~[Space Heater $20](#space-heater-20)~~ (reserved)
-- ~~[Swivel Chair ($30)](#swivel-chair-30)~~ (reserved)
-- ~~[Brad Nailer ($15)](#brad-nailer-15)~~ (reserved)
-- ~~[Ash Vacuum ($30)](#ash-vacuum-30)~~ (reserved)
-- ~~[Kyozasang $20](#kyozasang-20)~~ (reserved)
-- ~~[Snow Thrower $80](#snow-thrower-80)~~ (reserved)
-- ~~[Grass Trimmer $40](#grass-trimmer-40)~~ (reserved)
-- ~~[Axe $15](#axe-15)~~ (reserved)
+- ~~[Mini Broadcast Spreader $15](#mini-broadcast-spreader-15)~~ (sold)
+- ~~[Fiskars Deluxe Stand-up Weeder $15](#fiskars-deluxe-stand-up-weeder-15)~~ (sold)
+- ~~[Space Heater $20](#space-heater-20)~~ (sold)
+- ~~[Swivel Chair ($30)](#swivel-chair-30)~~ (sold)
+- ~~[Brad Nailer ($15)](#brad-nailer-15)~~ (sold)
+- ~~[Ash Vacuum ($30)](#ash-vacuum-30)~~ (sold)
+- ~~[Kyozasang $20](#kyozasang-20)~~ (sold)
+- ~~[Snow Thrower $80](#snow-thrower-80)~~ (sold)
+- ~~[Grass Trimmer $40](#grass-trimmer-40)~~ (sold)
+- ~~[Axe $15](#axe-15)~~ (sold)
 
 ## Kids
 
@@ -51,15 +51,15 @@
   - [Fish Tank ($10)](#fish-tank-20)
   - [Floaty (free)](#floaty-free)
   - [Bowling toy (free)](#fbowling-toy-free)
-  - ~~[Toy Organizer ($20)](#toy-organizer-20)~~ (reserved)
-  - ~~[Casio Keyboard ($15)](#casio-keyboard-15)~~ (reserved)
-  - ~~[Kids Rocking Chair ($10)](#kids-rocking-chair-10)~~ (reserved)
-  - ~~[Korean Books for Kids $20](#korean-books-for-kids-20)~~ (reserved)
-  - ~~[Book Case ($10)](#book-case-10)~~ (reserved)
-  - ~~[Deluxe Standing Art Easel ($10)](#deluxe-standing-art-easel-10)~~ (reserved)
-  - ~~[Animal Finger Puppets Kids Toy ($5)](#animal-finger-puppets-kids-toy-5)~~ (reserved)
-  - ~~[PicassoTiles 150 Piece ($40)](#picassotiles-150-piece-40)~~ (reserved)
-  - ~~[Booster Seat (free)](#booster-seat-free)~~ (reserved)
+  - ~~[Toy Organizer ($20)](#toy-organizer-20)~~ (sold)
+  - ~~[Casio Keyboard ($15)](#casio-keyboard-15)~~ (sold)
+  - ~~[Kids Rocking Chair ($10)](#kids-rocking-chair-10)~~ (sold)
+  - ~~[Korean Books for Kids $20](#korean-books-for-kids-20)~~ (sold)
+  - ~~[Book Case ($10)](#book-case-10)~~ (sold)
+  - ~~[Deluxe Standing Art Easel ($10)](#deluxe-standing-art-easel-10)~~ (sold)
+  - ~~[Animal Finger Puppets Kids Toy ($5)](#animal-finger-puppets-kids-toy-5)~~ (sold)
+  - ~~[PicassoTiles 150 Piece ($40)](#picassotiles-150-piece-40)~~ (sold)
+  - ~~[Booster Seat (free)](#booster-seat-free)~~ (sold)
 
 ----
 
@@ -90,17 +90,6 @@
 
 ![Screenshot](images/extension_cord.jpg)
 - US Wire - Power-On Lighted Extension Cord - SJTW Heavy-Duty 100-Feet: [Amazon web link](https://www.amazon.com/gp/product/B0020YKLQW/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
-
-### Fiskars Deluxe Stand-up Weeder $15
-
-![Screenshot](images/weed_remover.jpg)
-- Fiskars Deluxe Stand-up Weeder (4-claw): [Amazon web link](https://www.amazon.com/gp/product/B0030MIHAU/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
-
-### Mini Broadcast Spreader $15
-
-![Screenshot](images/spray1.jpg)
-![Screenshot](images/spray2.jpg)
-- Scotts Turf Builder EdgeGuard Mini Broadcast Spreader: [Amazon web link](https://www.amazon.com/gp/product/B002YPS1KK/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
 
 ### Ladder $40
 
@@ -273,65 +262,65 @@
 
 ![Screenshot](images/bowling.JPG)
 
-~~### Kyozasang $20~~ (reserved)
+~~### Kyozasang $20~~ (sold)
 
 ![Screenshot](images/kyzasang.jpg)
 ![Screenshot](images/kyzasang1.jpg)
 
-~~### Brad Nailer $15~~ (reserved)
+~~### Brad Nailer $15~~ (sold)
 
 ![Screenshot](images/nailer.jpg)
 - ~~WEN 61720 3/4-Inch to 2-Inch 18-Gauge Brad Nailer: [Amazon web link](https://www.amazon.com/gp/product/B000EJW1ZY/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)~~
 
-~~### Ash Vacuum $30~~ (reserved)
+~~### Ash Vacuum $30~~ (sold)
 
 ![Screenshot](images/ash_vacuum.jpg)
 - ~~PowerSmith PAVC101 10 Amp Ash Vacuum: [Amazon web link](https://www.amazon.com/gp/product/B0060EUA32/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)~~
 
 
-~~### Snow Thrower $80~~ (reserved)
+~~### Snow Thrower $80~~ (sold)
 
 ![Screenshot](images/snow_blower1.jpg)
 ![Screenshot](images/snow_blower2.jpg)
 - ~~Snow Joe Ultra SJ621 18-Inch 13.5-Amp Electric Snow Thrower with Light: [Amazon web link](https://www.amazon.com/gp/product/B0040X4VB2/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)~~
 
-~~### Grass Trimmer $40~~ (reserved)
+~~### Grass Trimmer $40~~ (sold)
 
 ![Screenshot](images/trimmer.jpg)
 - ~~Worx WG163 GT 3.0 20V Cordless Grass Trimmer/Edger, 12", 2 Batteries and Charger Included: [Amazon web link](https://www.amazon.com/gp/product/B018S68U40/ref=oh_aui_search_detailpage?ie=UTF8&th=1)~~
 
-~~### Axe $15~~ (reserved)
+~~### Axe $15~~ (sold)
 
 ![Screenshot](images/axe.jpg)
 - ~~Fiskars X17 Splitting Axe, 23.5-Inch: [Amazon web link](https://www.amazon.com/gp/product/B0002YTOFG/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)~~
 
-~~### Space Heater $20~~ (reserved)
+~~### Space Heater $20~~ (sold)
 
 ![Screenshot](images/space_heater.jpg)
 - ~~Lasko 751320 Ceramic Tower Space Heater with Remote Control:  [Amazon web link](https://www.amazon.com/Lasko-751320-Ceramic-Heater-Control/dp/B000TTSXNI/ref=mp_s_a_1_16?ie=UTF8&qid=1544052369&sr=8-16&pi=AC_SX236_SY340_QL65&keywords=lasko+heater)~~
 
-~~### Toy Organizer $20~~ (reserved)
+~~### Toy Organizer $20~~ (sold)
 
 ![Screenshot](images/toy_organizer.JPG)
 - ~~Tot Tutors Kids' Toy Storage Organizer with 12 Plastic Bins, Natural/Primary: [Amazon web link]( https://www.amazon.com/Tot-Tutors-Storage-Organizer-Collection/dp/B000067PTO/ref=sr_1_3?ie=UTF8&qid=1543889928&sr=8-3&keywords=toy+organizer)~~
 
-~~### Casio Keyboard $15~~ (reserved)
+~~### Casio Keyboard $15~~ (sold)
 
 ![Screenshot](images/keyboard.JPG)
 
-~~### Kids Rocking Chair $10~~ (reserved)
+~~### Kids Rocking Chair $10~~ (sold)
 
 ![Screenshot](images/rocking_chair1.JPG)
 ![Screenshot](images/rocking_chair2.JPG)
 
-~~### Korean Books for Kids $20~~ (reserved)
+~~### Korean Books for Kids $20~~ (sold)
 
 ![Screenshot](images/book1.JPG)
 ![Screenshot](images/book2.JPG)
 ![Screenshot](images/book3.JPG)
 ![Screenshot](images/book4.JPG)
 
-~~### Swivel Chair $30~~ (reserved)
+~~### Swivel Chair $30~~ (sold)
 
 ![Screenshot](images/swivel_chair1.JPG)
 ![Screenshot](images/swivel_chair2.JPG)
@@ -339,30 +328,41 @@
 - ~~Ikea MARKUS Swivel chair: [IKEA web link](https://www.ikea.com/us/en/catalog/products/00103102/)~~
 
 
-~~### Book Case $10~~ (reserved)
+~~### Book Case $10~~ (sold)
 
 ![Screenshot](images/book_case1.JPG)
 ![Screenshot](images/book_case2.JPG)
 
-~~### Deluxe Standing Art Easel $10~~ (reserved)
+~~### Deluxe Standing Art Easel $10~~ (sold)
 
 ![Screenshot](images/Standing_Art_Easel_1.JPG)
 ![Screenshot](images/Standing_Art_Easel_2.JPG)
 
 - ~~Melissa & Doug Deluxe Standing Art Easel: [Amazon web link](https://www.amazon.com/Melissa-Doug-Deluxe-Standing-Easel/dp/B002JCS5JA/ref=asc_df_B002JCS5JA/?tag=hyprod-20&linkCode=df0&hvadid=198091266133&hvpos=1o1&hvnetw=g&hvrand=5136219000479195226&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9021756&hvtargid=pla-365707694369&psc=1)~~
 
-~~### Animal Finger Puppets Kids Toy (1 Dozen) $5~~ (reserved)
+~~### Animal Finger Puppets Kids Toy (1 Dozen) $5~~ (sold)
 
 ![Screenshot](images/Animal_Finger_Puppets.JPG)
 - ~~Animal Finger Puppets Kids Toy (1 Dozen): [Amazon web link](https://www.amazon.com/dp/B001E3B9J8/ref=nav_timeline_asin?_encoding=UTF8&psc=1)~~
 
-~~### PicassoTiles 150 Piece $40~~ (reserved)
+~~### PicassoTiles 150 Piece $40~~ (sold)
 
 ![Screenshot](images/PicassoTiles1.JPG)
 ![Screenshot](images/PicassoTiles2.JPG)
 - ~~PicassoTiles 150 Piece: [Amazon web link to 100 Piece](https://www.amazon.com/PicassoTiles-Construction-Inspirational-Recreational-Conventional/dp/B00AU56C5W/ref=sr_1_5?s=toys-and-games&ie=UTF8&qid=1543879343&sr=1-5&keywords=picasso+magnetic+tiles)~~
 
-~~### Booster Seat (free)~~ (reserved)
+~~### Booster Seat (free)~~ (sold)
 
 ![Screenshot](images/booster_seat1.JPG)
 ![Screenshot](images/booster_seat2.JPG)
+
+~~### Fiskars Deluxe Stand-up Weeder $15
+
+![Screenshot](images/weed_remover.jpg)
+- Fiskars Deluxe Stand-up Weeder (4-claw): [Amazon web link](https://www.amazon.com/gp/product/B0030MIHAU/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
+
+### Mini Broadcast Spreader $15
+
+![Screenshot](images/spray1.jpg)
+![Screenshot](images/spray2.jpg)
+- Scotts Turf Builder EdgeGuard Mini Broadcast Spreader: [Amazon web link](https://www.amazon.com/gp/product/B002YPS1KK/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)~~
