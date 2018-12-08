@@ -37,7 +37,7 @@
   - [Electric Car $40](#electric-car-40)
   - [Baby Care Play Mat ($30)](#baby-care-play-mat-30)
   - [Kids Twin Loft Bed with Slide and Mattress ($200)](#kids-twin-loft-bed-with-slide-and-mattress-200)
-  - [Toy Organizer ($20)](#toy-organizer-20)
+  - ~~[Toy Organizer ($20)](#toy-organizer-20)~~
   - ~~[Casio Keyboard ($15)](#casio-keyboard-15)~~ (reserved)
   - [Baby Bundle ($20)](#baby-bundle-20)
   - ~~[Kids Rocking Chair ($10)](#kids-rocking-chair-10)~~ (reserved)
@@ -49,7 +49,7 @@
   - [Deluxe Wooden Magnetic Responsibility Chart ($10)](#deluxe-wooden-magnetic-responsibility-chart-10)
   - [USA Map Floor Puzzle ($5)](#usa-map-floor-puzzle-5)
   - [StarWars Early Readers Level 1-3 ($10)](#starwars-early-readers-level-1-3-10)
-  - [Animal Finger Puppets Kids Toy ($5)](#animal-finger-puppets-kids-toy-5)
+  - ~~[Animal Finger Puppets Kids Toy ($5)](#animal-finger-puppets-kids-toy-5)~~
   - [Fat Brain Toys Squigz ($10)](#fat-brain-toys-squigz-10)
   - [Car with remote control ($10)](#car-with-remote-control-10)
   - [ZipBin 160 Dinosaur Collector Toy Box + 30 Dinosaur Figures ($20)](#zipbin-160-dinosaur-collector-toy-box--30-dinosaur-figures-20)
@@ -217,7 +217,7 @@
 - Zinus Memory Foam 8 Inch Green Tea Mattress, Twin: [Amazon web link](https://www.amazon.com/dp/B00Q7FWQKO/ref=twister_B07792YVXM?_encoding=UTF8&psc=1)
 
 
-### Toy Organizer $20
+~~### Toy Organizer $20~~ (reserved)
 
 ![Screenshot](images/toy_organizer.JPG)
 - Tot Tutors Kids' Toy Storage Organizer with 12 Plastic Bins, Natural/Primary: [Amazon web link]( https://www.amazon.com/Tot-Tutors-Storage-Organizer-Collection/dp/B000067PTO/ref=sr_1_3?ie=UTF8&qid=1543889928&sr=8-3&keywords=toy+organizer)
@@ -305,7 +305,7 @@
 
 - DK Star Wars: Ultimate Library Box Set with 20 Volumes for Early Readers Level 1-3 in Slipcase: [Amazon web link](https://www.amazon.com/Star-Wars-Ultimate-Library-Slipcase/dp/1465442146/ref=sr_1_4?s=digital-text&ie=UTF8&qid=1543877539&sr=8-4&keywords=DK+ultimate+library+star+wars+book)
 
-### Animal Finger Puppets Kids Toy (1 Dozen) $5
+~~### Animal Finger Puppets Kids Toy (1 Dozen) $5~~ (reserved)
 
 ![Screenshot](images/Animal_Finger_Puppets.JPG)
 - Animal Finger Puppets Kids Toy (1 Dozen): [Amazon web link](https://www.amazon.com/dp/B001E3B9J8/ref=nav_timeline_asin?_encoding=UTF8&psc=1)
