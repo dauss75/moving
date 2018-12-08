@@ -78,7 +78,7 @@
 ~~### Brad Nailer $15~~ (reserved)
 
 ![Screenshot](images/nailer.jpg)
-- WEN 61720 3/4-Inch to 2-Inch 18-Gauge Brad Nailer: [Amazon web link](https://www.amazon.com/gp/product/B000EJW1ZY/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
+~~- WEN 61720 3/4-Inch to 2-Inch 18-Gauge Brad Nailer: [Amazon web link](https://www.amazon.com/gp/product/B000EJW1ZY/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)~~
 
 ### Astor Bellows for Wood and Coal Fires $10
 
@@ -87,14 +87,14 @@
 ~~### Ash Vacuum $30~~ (reserved)
 
 ![Screenshot](images/ash_vacuum.jpg)
-- PowerSmith PAVC101 10 Amp Ash Vacuum: [Amazon web link](https://www.amazon.com/gp/product/B0060EUA32/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
+~~- PowerSmith PAVC101 10 Amp Ash Vacuum: [Amazon web link](https://www.amazon.com/gp/product/B0060EUA32/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)~~
 
 
 ~~### Snow Thrower $80~~ (reserved)
 
 ![Screenshot](images/snow_blower1.jpg)
 ![Screenshot](images/snow_blower2.jpg)
-- Snow Joe Ultra SJ621 18-Inch 13.5-Amp Electric Snow Thrower with Light: [Amazon web link](https://www.amazon.com/gp/product/B0040X4VB2/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
+~~- Snow Joe Ultra SJ621 18-Inch 13.5-Amp Electric Snow Thrower with Light: [Amazon web link](https://www.amazon.com/gp/product/B0040X4VB2/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)~~
 
 ### Lawn Mower $60
 
@@ -116,7 +116,7 @@
 ~~### Grass Trimmer $40~~ (reserved)
 
 ![Screenshot](images/trimmer.jpg)
-- Worx WG163 GT 3.0 20V Cordless Grass Trimmer/Edger, 12", 2 Batteries and Charger Included: [Amazon web link](https://www.amazon.com/gp/product/B018S68U40/ref=oh_aui_search_detailpage?ie=UTF8&th=1)
+~~- Worx WG163 GT 3.0 20V Cordless Grass Trimmer/Edger, 12", 2 Batteries and Charger Included: [Amazon web link](https://www.amazon.com/gp/product/B018S68U40/ref=oh_aui_search_detailpage?ie=UTF8&th=1)~~
 
 ### Fiskars Deluxe Stand-up Weeder $15
 
@@ -126,7 +126,7 @@
 ~~### Axe $15~~ (reserved)
 
 ![Screenshot](images/axe.jpg)
-- Fiskars X17 Splitting Axe, 23.5-Inch: [Amazon web link](https://www.amazon.com/gp/product/B0002YTOFG/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
+~~- Fiskars X17 Splitting Axe, 23.5-Inch: [Amazon web link](https://www.amazon.com/gp/product/B0002YTOFG/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)~~
 
 ### Mini Broadcast Spreader $15
 
@@ -143,7 +143,7 @@
 ~~### Space Heater $20~~ (reserved)
 
 ![Screenshot](images/space_heater.jpg)
-- Lasko 751320 Ceramic Tower Space Heater with Remote Control:  [Amazon web link](https://www.amazon.com/Lasko-751320-Ceramic-Heater-Control/dp/B000TTSXNI/ref=mp_s_a_1_16?ie=UTF8&qid=1544052369&sr=8-16&pi=AC_SX236_SY340_QL65&keywords=lasko+heater)
+~~- Lasko 751320 Ceramic Tower Space Heater with Remote Control:  [Amazon web link](https://www.amazon.com/Lasko-751320-Ceramic-Heater-Control/dp/B000TTSXNI/ref=mp_s_a_1_16?ie=UTF8&qid=1544052369&sr=8-16&pi=AC_SX236_SY340_QL65&keywords=lasko+heater)~~
 
 
 ### Slower Cooker $20
@@ -212,7 +212,7 @@
 ~~### Toy Organizer $20~~ (reserved)
 
 ![Screenshot](images/toy_organizer.JPG)
-- Tot Tutors Kids' Toy Storage Organizer with 12 Plastic Bins, Natural/Primary: [Amazon web link]( https://www.amazon.com/Tot-Tutors-Storage-Organizer-Collection/dp/B000067PTO/ref=sr_1_3?ie=UTF8&qid=1543889928&sr=8-3&keywords=toy+organizer)
+~~- Tot Tutors Kids' Toy Storage Organizer with 12 Plastic Bins, Natural/Primary: [Amazon web link]( https://www.amazon.com/Tot-Tutors-Storage-Organizer-Collection/dp/B000067PTO/ref=sr_1_3?ie=UTF8&qid=1543889928&sr=8-3&keywords=toy+organizer)~~
 
 ~~### Casio Keyboard $15~~ (reserved)
 
@@ -300,7 +300,7 @@
 ~~### Animal Finger Puppets Kids Toy (1 Dozen) $5~~ (reserved)
 
 ![Screenshot](images/Animal_Finger_Puppets.JPG)
-- Animal Finger Puppets Kids Toy (1 Dozen): [Amazon web link](https://www.amazon.com/dp/B001E3B9J8/ref=nav_timeline_asin?_encoding=UTF8&psc=1)
+~~- Animal Finger Puppets Kids Toy (1 Dozen): [Amazon web link](https://www.amazon.com/dp/B001E3B9J8/ref=nav_timeline_asin?_encoding=UTF8&psc=1)~~
 
 ### Fat Brain Toys Squigz $10
 
@@ -341,7 +341,7 @@
 
 ![Screenshot](images/PicassoTiles1.JPG)
 ![Screenshot](images/PicassoTiles2.JPG)
-- PicassoTiles 150 Piece: [Amazon web link to 100 Piece](https://www.amazon.com/PicassoTiles-Construction-Inspirational-Recreational-Conventional/dp/B00AU56C5W/ref=sr_1_5?s=toys-and-games&ie=UTF8&qid=1543879343&sr=1-5&keywords=picasso+magnetic+tiles)
+~~- PicassoTiles 150 Piece: [Amazon web link to 100 Piece](https://www.amazon.com/PicassoTiles-Construction-Inspirational-Recreational-Conventional/dp/B00AU56C5W/ref=sr_1_5?s=toys-and-games&ie=UTF8&qid=1543879343&sr=1-5&keywords=picasso+magnetic+tiles)~~
 
 ### Magic Sand $20
 
