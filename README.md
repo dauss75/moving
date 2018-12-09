@@ -10,10 +10,10 @@
 - [Astor Bellows for Wood and Coal Fires $10](#astor-bellows-for-wood-and-coal-fires-10)
 - [Lawn Mower $60](#lawn-mower-60)
 - [Dethatcher $75](#dethatcher-75)
-- [Heavy-Duty Lighted Extension Cord $20](#heavy-duty-lighted-extension-cord-20)
-- [Ladder $40](#ladder-40)
 - [Schwinn Bike $90](#schwinn-bike-90)
 - [Cart $10](#cart-10)
+- ~~[Heavy-Duty Lighted Extension Cord $20](#heavy-duty-lighted-extension-cord-20)~~ (sold)
+- ~~[Ladder $40](#ladder-40)~~ (sold)
 - ~~[Mini Broadcast Spreader $15](#mini-broadcast-spreader-15)~~ (sold)
 - ~~[Fiskars Deluxe Stand-up Weeder $15](#fiskars-deluxe-stand-up-weeder-15)~~ (sold)
 - ~~[Space Heater $20](#space-heater-20)~~ (sold)
@@ -85,17 +85,6 @@
 ![Screenshot](images/detacher1.jpg)
 ![Screenshot](images/detacher2.jpg)
 - Greenworks 14-Inch 10 Amp Corded Dethatcher 27022: [Amazon web link](https://www.amazon.com/gp/product/B0030BG1HM/ref=od_aui_detailpages00?ie=UTF8&psc=1)
-
-### Heavy-Duty Lighted Extension Cord $20
-
-![Screenshot](images/extension_cord.jpg)
-- US Wire - Power-On Lighted Extension Cord - SJTW Heavy-Duty 100-Feet: [Amazon web link](https://www.amazon.com/gp/product/B0020YKLQW/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
-
-### Ladder $40
-
-![Screenshot](images/ladder.jpg)
-![Screenshot](images/ladder1.jpg)
-- Louisville Ladder FS4006, 6-Foot, Green: [Amazon web link](https://www.amazon.com/gp/product/B0013KWOPK/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)  
 
 ### Slower Cooker $20
 
@@ -356,13 +345,24 @@
 ![Screenshot](images/booster_seat1.JPG)
 ![Screenshot](images/booster_seat2.JPG)
 
-~~### Fiskars Deluxe Stand-up Weeder $15~~
+~~### Fiskars Deluxe Stand-up Weeder $15~~ (sold)
 
 ![Screenshot](images/weed_remover.jpg)
 - ~~Fiskars Deluxe Stand-up Weeder (4-claw): [Amazon web link](https://www.amazon.com/gp/product/B0030MIHAU/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)~~
 
-~~### Mini Broadcast Spreader $15~~
+~~### Mini Broadcast Spreader $15~~ (sold)
 
 ![Screenshot](images/spray1.jpg)
 ![Screenshot](images/spray2.jpg)
 - ~~Scotts Turf Builder EdgeGuard Mini Broadcast Spreader: [Amazon web link](https://www.amazon.com/gp/product/B002YPS1KK/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)~~
+
+~~### Heavy-Duty Lighted Extension Cord $20~~ (sold)
+
+![Screenshot](images/extension_cord.jpg)
+- ~~US Wire - Power-On Lighted Extension Cord - SJTW Heavy-Duty 100-Feet: [Amazon web link](https://www.amazon.com/gp/product/B0020YKLQW/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)~~
+
+~~### Ladder $40~~ (sold)
+
+![Screenshot](images/ladder.jpg)
+![Screenshot](images/ladder1.jpg)
+- ~~Louisville Ladder FS4006, 6-Foot, Green: [Amazon web link](https://www.amazon.com/gp/product/B0013KWOPK/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)  ~~
