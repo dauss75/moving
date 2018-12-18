@@ -3,7 +3,7 @@
 
 - [Slower Cooker $20](#slower-cooker-20)
 - [Dehumidifier $80](#dehumdifier-80)
-- [Futon + Frame $90](#futon-with-frame-90)
+- [Full Size Futon + Frame $90](#full-size-futon--frame-90)
 - [Floor Stand ($10)](#floor-stand-10)
 - [Astor Bellows for Wood and Coal Fires $10](#astor-bellows-for-wood-and-coal-fires-10)
 - [Dethatcher $75](#dethatcher-75)
@@ -55,7 +55,7 @@
 ![Screenshot](images/dehumidifier.jpg)
 - Frigidaire FAD504DWD Energy Star 50-pint Dehumidifier: [Amazon web link](https://www.amazon.com/Frigidaire-FAD504DWD-Energy-50-pint-Dehumidifier/dp/B00AU7GYXA/ref=mp_s_a_1_4?ie=UTF8&qid=1544052145&sr=8-4&pi=AC_SX236_SY340_QL65&keywords=de+humidifers&dpPl=1&dpID=51DoGDnEwvL&ref=plSrch)
 
-### Futon + Frame $90
+### Full Size Futon + Frame $90
 
 ![Screenshot](images/futon_set.jpg)
 ![Screenshot](images/futon_set1.jpg)
