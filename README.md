@@ -4,20 +4,16 @@
 - [Slower Cooker $25](#slower-cooker-25)
 - [Dehumidifier $100](#dehumdifier-100)
 - [Full Size Futon + Frame $90](#full-size-futon--frame-90)
-- [Floor Stand ($10)](#floor-stand-10)
 - [Astor Bellows for Wood and Coal Fires $10](#astor-bellows-for-wood-and-coal-fires-10)
 - [Panacea 15919 Log Bin with Scrolls, Brushed Bronze $20](#)
 - [Dethatcher $60](#dethatcher-60)
 - [Schwinn Bike $90](#schwinn-bike-90)
-- [Cart $10](#cart-10)
 
 ## Kids
 
   - [Little Tikes TotSports T-Ball Set $10](#little-tikes-totsports-t-ball-set-10)
-  - [Summer Infant 6-Panel PlaySafe Playard + Extension Kit $25](#summer-infant-6-panel-playsafe-playard--extension-kit-25)
   - [Kids Scotter $15](kids-scotter-15)
   - [Kids Bike $25](#kids-bike-25)
-  - [Electric Car $30](#electric-car-30)
   - [Baby Care Play Mat ($30)](#baby-care-play-mat-30)
   - [Kids Twin Loft Bed with Slide and Mattress ($150)](#kids-twin-loft-bed-with-slide-and-mattress-150)
   - [Baby Bundle ($20)](#baby-bundle-20)
@@ -73,15 +69,6 @@
 
 ![Screenshot](images/bike1.jpg)
 
-### Cart $10
-
-![Screenshot](images/cart.jpg)
-
-### Summer Infant 6-Panel PlaySafe Playard + Extension Kit $25
-
-![Screenshot](images/safety1.jpg)
-![Screenshot](images/safety2.jpg)
-- Summer Infant 6-Panel PlaySafe Playard + Extension Kit: [Amazon web link](https://www.amazon.com/Summer-Infant-6-Panel-PlaySafe-Playard/dp/B000G1YW98/ref=redir_mobile_desktop?_encoding=UTF8&ref=yo_pop_mb_pd_title&th=1)
 
 ### Little Tikes EasyScore Basketball Set $15
 
@@ -103,11 +90,6 @@
 
 ![Screenshot](images/bike2.jpg)
 
-### Electric Car $30
-
-![Screenshot](images/electric_car.jpg)
-- Disney Mickey Roadster Racer 6-Volt Battery-Powered Ride On by Huffy: [Web link](https://jet.com/product/Disney-Mickey-Roadster-Racer-6-Volt-Battery-Powered-Ride-On-by-Huffy/e4783ac74eb94e708426118c290f9a3f?jcmp=pla:ggl:nj_dur_gen_toys_games_a1:toys_games_tricycles_scooters_wagons_ride_on_toys_a1:na:PLA_783890872_44683441607_pla-306020966282_m:na:na:na:2PLA15&code=PLA15&pid=kenshoo_int&c=783890872&is_retargeting=true&clickid=9ef3e6ac-f116-43e6-a5e4-06cdebf7bfb0&kclid=9ef3e6ac-f116-43e6-a5e4-06cdebf7bfb0&gclid=EAIaIQobChMI2JXA99GL3wIVEsJkCh3xUggkEAQYBCABEgLw-PD_BwE)
-
 ### Baby Care Play Mat $30
 
 ![Screenshot](images/matt1.JPG)
@@ -128,11 +110,6 @@
 ![Screenshot](images/bundle2.JPG)
 
 - Jj Cole Polar Bundleme Slate: [Amazon web link](https://www.amazon.com/Jj-Cole-Polar-Bundleme-Slate/dp/B00F2RFESY/ref=sr_1_1_a_it?ie=UTF8&qid=1543890161&sr=8-1&keywords=jj%2Bcole%2Bbundle%2Bme%2Btoddler&th=1)
-
-
-### Floor Stand $10
-
-![Screenshot](images/floor_stand.JPG)
 
 
 ### Deluxe Wooden Magnetic Calendar $10
