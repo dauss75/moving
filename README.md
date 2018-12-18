@@ -1,20 +1,19 @@
 
 # List of items for sale (Location: Mt. Greenwood, Chicago)
 
-- [Slower Cooker $20](#slower-cooker-20)
-- [Dehumidifier $80](#dehumdifier-80)
+- [Slower Cooker $25](#slower-cooker-25)
+- [Dehumidifier $100](#dehumdifier-100)
 - [Full Size Futon + Frame $90](#full-size-futon--frame-90)
 - [Floor Stand ($10)](#floor-stand-10)
 - [Astor Bellows for Wood and Coal Fires $10](#astor-bellows-for-wood-and-coal-fires-10)
 - [Panacea 15919 Log Bin with Scrolls, Brushed Bronze $20](#)
-- [Dethatcher $75](#dethatcher-75)
+- [Dethatcher $60](#dethatcher-60)
 - [Schwinn Bike $90](#schwinn-bike-90)
 - [Cart $10](#cart-10)
 
 ## Kids
 
-  - [Little Tikes EasyScore Basketball Set $15](#)
-  - [Little Tikes TotSports T-Ball Set $5](#little-tikes-totsports-t-ball-set-5)
+  - [Little Tikes TotSports T-Ball Set $10](#little-tikes-totsports-t-ball-set-10)
   - [Summer Infant 6-Panel PlaySafe Playard + Extension Kit $25](#summer-infant-6-panel-playsafe-playard--extension-kit-25)
   - [Kids Scotter $15](kids-scotter-15)
   - [Kids Bike $25](#kids-bike-25)
@@ -22,18 +21,18 @@
   - [Baby Care Play Mat ($30)](#baby-care-play-mat-30)
   - [Kids Twin Loft Bed with Slide and Mattress ($150)](#kids-twin-loft-bed-with-slide-and-mattress-150)
   - [Baby Bundle ($20)](#baby-bundle-20)
-  - [Deluxe Wooden Magnetic Calendar ($8)](#deluxe-wooden-magnetic-calendar-8)
+  - [Deluxe Wooden Magnetic Calendar ($10)](#deluxe-wooden-magnetic-calendar-10)
   - [Deluxe Wooden Magnetic Responsibility Chart ($8)](#deluxe-wooden-magnetic-responsibility-chart-8)
-  - [USA Map Floor Puzzle ($5)](#usa-map-floor-puzzle-5)
+  - [USA Map Floor Puzzle ($7)](#usa-map-floor-puzzle-7)
   - [StarWars Early Readers Level 1-3 ($10)](#starwars-early-readers-level-1-3-10)
-  - [Fat Brain Toys Squigz ($8)](#fat-brain-toys-squigz-8)
+  - [Fat Brain Toys Squigz ($15)](#fat-brain-toys-squigz-15)
   - [Cash Register Toy ($7)](#cash-register-toy-7)
   - [2nd Grade Spelling Flashcards+ Brain Quest Grade 2 ($10)](#2nd-grade-spelling-flashcards-brain-quest-grade-2-10)
-  - [DK Games: Silly Sentences ($5)](#dk-games-silly-sentences-5)
+  - [DK Games: Silly Sentences ($6)](#dk-games-silly-sentences-6)
   - [Learning Resources Sum Swamp Game ($8)](#learning-resources-sum-swamp-game-8)
   - [Magic Sand ($15)](#magic-sand-15)
   - [Fish Tank ($10)](#fish-tank-10)
-  - [Floaty (free)](#floaty-free)
+  - [Floaty ($5)](#floaty-5)
 
 ----
 
@@ -48,18 +47,18 @@
 [Amazon web link: https://www.amazon.com/gp/product/B000GD3N1O/ref=oh_aui_search_detailpage?ie=UTF8&psc=1](https://www.amazon.com/gp/product/B000GD3N1O/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
 
 
-### Dethatcher $75
+### Dethatcher $60
 
 ![Screenshot](images/detacher1.jpg)
 ![Screenshot](images/detacher2.jpg)
 - Greenworks 14-Inch 10 Amp Corded Dethatcher 27022: [Amazon web link](https://www.amazon.com/gp/product/B0030BG1HM/ref=od_aui_detailpages00?ie=UTF8&psc=1)
 
-### Slower Cooker $20
+### Slower Cooker $25
 
 ![Screenshot](images/slower_cooker.jpg)
 - Hamilton Beach 33969A 6-Quart Programmable Set & Forget w/Temperature Probe Slow Cooker: [Amazon web link](https://www.amazon.com/Hamilton-Beach-33969A-Programmable-Temperature/dp/B00EZI26GO/ref=mp_s_a_1_3/135-4688022-4381325?ie=UTF8&qid=1544052076&sr=8-3&pi=AC_SX236_SY340_QL65&keywords=hamilton+beach+slow+cookers&dpPl=1&dpID=41y8mCPmmpL&ref=plSrch)
 
-### Dehumidifier $80
+### Dehumidifier $100
 
 ![Screenshot](images/dehumidifier.jpg)
 - Frigidaire FAD504DWD Energy Star 50-pint Dehumidifier: [Amazon web link](https://www.amazon.com/Frigidaire-FAD504DWD-Energy-50-pint-Dehumidifier/dp/B00AU7GYXA/ref=mp_s_a_1_4?ie=UTF8&qid=1544052145&sr=8-4&pi=AC_SX236_SY340_QL65&keywords=de+humidifers&dpPl=1&dpID=51DoGDnEwvL&ref=plSrch)
@@ -90,7 +89,7 @@
 
 [Amazon web link: https://www.amazon.com/gp/product/B001BKX0V4/ref=oh_aui_search_detailpage?ie=UTF8&psc=1](https://www.amazon.com/gp/product/B001BKX0V4/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
 
-### Little Tikes TotSports T-Ball Set $5
+### Little Tikes TotSports T-Ball Set $10
 
 ![Screenshot](images/baseball_game.jpg)
 - Little Tikes TotSports T-Ball Set, Red: [Amazon web link](https://www.amazon.com/gp/product/B001EB9F3C/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
@@ -136,7 +135,7 @@
 ![Screenshot](images/floor_stand.JPG)
 
 
-### Deluxe Wooden Magnetic Calendar $8
+### Deluxe Wooden Magnetic Calendar $10
 
 ![Screenshot](images/Magnetic_Calendar.JPG)
 
@@ -148,7 +147,7 @@
 
 - Melissa & Doug Deluxe Wooden Magnetic Responsibility Chart: [Amazon web link](https://www.amazon.com/Melissa-Doug-Magnetic-Responsibility-Magnets/dp/B000NTZL7U/ref=sr_1_2?s=toys-and-games&ie=UTF8&qid=1543877234&sr=1-2&keywords=melissa+and+doug+responsibility+chart+for+kids)
 
-### USA Map Floor Puzzle $5
+### USA Map Floor Puzzle $7
 
 ![Screenshot](images/USA_Map_Floor_Puzzle.JPG)
 
@@ -161,7 +160,7 @@
 
 - DK Star Wars: Ultimate Library Box Set with 20 Volumes for Early Readers Level 1-3 in Slipcase: [Amazon web link](https://www.amazon.com/Star-Wars-Ultimate-Library-Slipcase/dp/1465442146/ref=sr_1_4?s=digital-text&ie=UTF8&qid=1543877539&sr=8-4&keywords=DK+ultimate+library+star+wars+book)
 
-### Fat Brain Toys Squigz $8
+### Fat Brain Toys Squigz $15
 
 ![Screenshot](images/suqqze.jpg)
 ![Screenshot](images/Fat_Brain_Toys_Squigz.JPG)
@@ -177,7 +176,7 @@
 ![Screenshot](images/Flashcards.JPG)
 - 2nd Grade Spelling Flashcards+ Brain Quest Grade 2: [Amazon web link](https://www.amazon.com/Brain-Revised-Questions-Answers-Challenge/dp/B00U9PVYT2/ref=sr_1_3?ie=UTF8&qid=1543878935&sr=8-3&keywords=age+7-8+1000+question)
 
-### DK Games: Silly Sentences $5
+### DK Games: Silly Sentences $6
 
 ![Screenshot](images/Silly_Sentences.JPG)
 - DK Games: Silly Sentences: [Amazon web link](https://www.amazon.com/DK-Games-Silly-Sentences/dp/0789454726/ref=sr_1_2?ie=UTF8&qid=1543879093&sr=8-2&keywords=silly+sentences)
@@ -197,7 +196,7 @@
 ![Screenshot](images/fishtank2.JPG)
 
 
-### Floaty (free)
+### Floaty $5
 
 ![Screenshot](images/floaty1.JPG)
 ![Screenshot](images/floaty2.JPG)
