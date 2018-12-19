@@ -11,7 +11,7 @@
 
 ## Kids
 
-  - [VTech KidiBeats Kids Drum Set $10](#little-tikes-totsports-t-ball-set-10)
+  - [VTech KidiBeats Kids Drum Set $10](#vtech-kidibeats-kids-drum-set-10)
   - [Little Tikes TotSports T-Ball Set $10](#little-tikes-totsports-t-ball-set-10)
   - [Kids Scotter $15](kids-scotter-15)
   - [Kids Bike $25](#kids-bike-25)
