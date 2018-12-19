@@ -11,12 +11,13 @@
 
 ## Kids
 
+  - [VTech KidiBeats Kids Drum Set $10](#little-tikes-totsports-t-ball-set-10)
   - [Little Tikes TotSports T-Ball Set $10](#little-tikes-totsports-t-ball-set-10)
   - [Kids Scotter $15](kids-scotter-15)
   - [Kids Bike $25](#kids-bike-25)
   - [Baby Care Play Mat ($30)](#baby-care-play-mat-30)
   - [Kids Twin Loft Bed with Slide and Mattress ($150)](#kids-twin-loft-bed-with-slide-and-mattress-150)
-  - [Baby Bundle ($20)](#baby-bundle-20)
+  - [Baby Bundle ($30)](#baby-bundle-30)
   - [Deluxe Wooden Magnetic Calendar ($10)](#deluxe-wooden-magnetic-calendar-10)
   - [Deluxe Wooden Magnetic Responsibility Chart ($8)](#deluxe-wooden-magnetic-responsibility-chart-8)
   - [USA Map Floor Puzzle ($7)](#usa-map-floor-puzzle-7)
@@ -76,6 +77,12 @@
 
 [Amazon web link: https://www.amazon.com/gp/product/B001BKX0V4/ref=oh_aui_search_detailpage?ie=UTF8&psc=1](https://www.amazon.com/gp/product/B001BKX0V4/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
 
+
+### VTech KidiBeats Kids Drum Set $10
+
+![Screenshot](images/drum.jpg)
+- VTech KidiBeats Kids Drum Set: [Amazon web link](https://www.amazon.com/VTech-KidiBeats-Kids-Drum-Set/dp/B007XVYSDE/ref=asc_df_B007XVYSDE/?tag=hyprod-20&linkCode=df0&hvadid=198069655422&hvpos=1o4&hvnetw=g&hvrand=14756666210039014960&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9021756&hvtargid=pla-369635660288&psc=1)
+
 ### Little Tikes TotSports T-Ball Set $10
 
 ![Screenshot](images/baseball_game.jpg)
@@ -104,7 +111,7 @@
 - Zinus Memory Foam 8 Inch Green Tea Mattress, Twin: [Amazon web link](https://www.amazon.com/dp/B00Q7FWQKO/ref=twister_B07792YVXM?_encoding=UTF8&psc=1)
 
 
-### Baby Bundle $20
+### Baby Bundle $30
 
 ![Screenshot](images/bundle1.JPG)
 ![Screenshot](images/bundle2.JPG)
