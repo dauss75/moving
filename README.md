@@ -16,10 +16,8 @@
   - [Kids Scotter $15](kids-scotter-15)
   - [Kids Bike $25](#kids-bike-25)
   - [Baby Care Play Mat ($30)](#baby-care-play-mat-30)
-  - [Kids Twin Loft Bed with Slide and Mattress ($150)](#kids-twin-loft-bed-with-slide-and-mattress-150)
   - [Baby Bundle ($30)](#baby-bundle-30)
   - [Deluxe Wooden Magnetic Calendar ($10)](#deluxe-wooden-magnetic-calendar-10)
-  - [Deluxe Wooden Magnetic Responsibility Chart ($8)](#deluxe-wooden-magnetic-responsibility-chart-8)
   - [USA Map Floor Puzzle ($7)](#usa-map-floor-puzzle-7)
   - [StarWars Early Readers Level 1-3 ($10)](#starwars-early-readers-level-1-3-10)
   - [Fat Brain Toys Squigz ($15)](#fat-brain-toys-squigz-15)
@@ -103,14 +101,6 @@
 ![Screenshot](images/matt2.JPG)
 - Baby Care Play Mat (Medium, Pingko Friends): [Amazon web link](https://www.amazon.com/dp/B00H9AJEC4/ref=twister_B0058K5II6?th=1)
 
-### Kids Twin Loft Bed with Slide and Mattress $150
-
-![Screenshot](images/bed1.JPG)
-![Screenshot](images/bed2.JPG)
-- Donco Kids Twin Loft Bed with Slide in White 704347: [Amazon web link](https://www.amazon.com/Donco-Kids-Slide-White-704347/dp/B06X9WBRKJ?ref_=fsclp_pl_dp_11)
-- Zinus Memory Foam 8 Inch Green Tea Mattress, Twin: [Amazon web link](https://www.amazon.com/dp/B00Q7FWQKO/ref=twister_B07792YVXM?_encoding=UTF8&psc=1)
-
-
 ### Baby Bundle $30
 
 ![Screenshot](images/bundle1.JPG)
@@ -124,12 +114,6 @@
 ![Screenshot](images/Magnetic_Calendar.JPG)
 
 - Melissa & Doug Deluxe Wooden Magnetic Calendar: [Amazon web link](https://www.amazon.com/Melissa-Doug-Magnetic-Calendar-Magnets/dp/B000NV6D7A/ref=sr_1_cc_3?s=aps&ie=UTF8&qid=1543877072&sr=1-3-catcorr&keywords=melissa+and+doug+calendar)
-
-### Deluxe Wooden Magnetic Responsibility Chart $8
-
-![Screenshot](images/Magnetic_Responsibility_Chart.JPG)
-
-- Melissa & Doug Deluxe Wooden Magnetic Responsibility Chart: [Amazon web link](https://www.amazon.com/Melissa-Doug-Magnetic-Responsibility-Magnets/dp/B000NTZL7U/ref=sr_1_2?s=toys-and-games&ie=UTF8&qid=1543877234&sr=1-2&keywords=melissa+and+doug+responsibility+chart+for+kids)
 
 ### USA Map Floor Puzzle $7
 
